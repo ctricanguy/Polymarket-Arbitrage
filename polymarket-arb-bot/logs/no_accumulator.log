@@ -1,0 +1,178 @@
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: State reset
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: NO-SHARE ACCUMULATOR BOT STARTING
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Capital: $100,000.00 | Position budget: $1000.0
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: NO price range: 0.01¢ - 0.05¢
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Max positions: 30 | Scan interval: 300s
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Scanning for cheap NO markets...
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Found 500 active markets from Gamma API
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Found 71 cheap NO markets (1-5¢)
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will Colombia win the 2026 FIFA World Cup?         | NO=0.033 YES=0.968 | vol=$96,424,213
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will the Green Bay Packers win the 2027 NFL league | NO=0.027 YES=0.973 | vol=$998,878
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will there be no Head of State in Iran end of 2026 | NO=0.029 YES=0.972 | vol=$990,101
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will MetaMask launch a token by September 30, 2026 | NO=0.018 YES=0.982 | vol=$982,084
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will the Indianapolis Colts win the 2027 NFL leagu | NO=0.013 YES=0.988 | vol=$967,145
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will Trump be impeached by end of 2026?            | NO=0.036 YES=0.964 | vol=$957,175
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Iran agrees to surrender enriched uranium stockpil | NO=0.015 YES=0.985 | vol=$951,982
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $140,000 by December 31, 2026?  | NO=0.037 YES=0.963 | vol=$945,643
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will the Philadelphia Eagles win the 2027 NFL leag | NO=0.033 YES=0.968 | vol=$945,350
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SCOTUS accepts sports event contract case by July  | NO=0.016 YES=0.984 | vol=$944,504
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will the Pittsburgh Steelers win the 2027 NFL leag | NO=0.011 YES=0.990 | vol=$943,946
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will the Detroit Lions win the 2027 NFL league cha | NO=0.039 YES=0.961 | vol=$938,169
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Anysphere (Cursor) IPO before 2027?                | NO=0.016 YES=0.984 | vol=$99,847
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will Joao Fonseca win the 2026 Men's US Open?      | NO=0.021 YES=0.979 | vol=$99,710
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   Will Baker Mayfield win the 2026 NFL MVP?          | NO=0.018 YES=0.983 | vol=$98,817
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Colombia win the 2026 FIFA World Cu
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Green Bay Packers win the 2027 NFL l |  30000 shares @ 0.028 = $  840.00 | sports
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will there be no Head of State in Iran end of |  30000 shares @ 0.030 = $  885.00 | geopolitics
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will MetaMask launch a token by Septembe
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Indianapolis Colts win the 2027 NFL  |  30000 shares @ 0.014 = $  405.00 | sports
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Trump be impeached by end of 2026?       |  27397 shares @ 0.037 = $ 1027.39 | politics
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Iran agrees to surrender enriched uranium sto |  30000 shares @ 0.017 = $  495.00 | business
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Bitcoin reach $140,000 by December 31, 2 |  26666 shares @ 0.038 = $ 1026.64 | crypto
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Philadelphia Eagles win the 202
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: SCOTUS accepts sports event contract case by  |  30000 shares @ 0.017 = $  510.00 | politics
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Pittsburgh Steelers win the 2027 NFL |  30000 shares @ 0.011 = $  345.00 | sports
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Detroit Lions win the 2027 NFL 
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Anysphere (Cursor) IPO before 2027?           |  30000 shares @ 0.017 = $  510.00 | business
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Joao Fonseca win the 2026 Men's US 
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Baker Mayfield win the 2026 NFL MVP?     |  30000 shares @ 0.019 = $  555.00 | sports
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Michelle Bolsonaro finish in second
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Detroit Tigers win the 2026 American Lea |  30000 shares @ 0.030 = $  915.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Cristiano Ronaldo win the 2026 Ballon d' |  30000 shares @ 0.019 = $  570.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the US strike 13 countries in 2026?      |  30000 shares @ 0.025 = $  750.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Min Woo Lee win the 2026 TOUR Championsh |  30000 shares @ 0.014 = $  405.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Romanian parliament dissolved by July 31?     |  30000 shares @ 0.025 = $  750.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Dune: Messiah have the best domestic ope |  30000 shares @ 0.020 = $  600.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Republican Party win the GA-06 
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Marsha Blackburn win the 2026 Tennessee  |  30000 shares @ 0.029 = $  855.00 | politics
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Pacifica FDV above $2B one day after launch?  |  20408 shares @ 0.050 = $ 1020.40 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Trump sell 2.5k-5k Gold Cards in 2026?   |  30000 shares @ 0.025 = $  735.00 | politics
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will JP Morgan (JPM) Q2 investment banking fe |  30000 shares @ 0.026 = $  795.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Democratic Party win the MD-02 
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Fed’s lower bound reach 1.75% or low |  22222 shares @ 0.046 = $ 1022.21 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Ventuals FDV above $300M one day after launch |  27027 shares @ 0.038 = $ 1027.03 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will New York Giants win the 2027 NFL NFC Cha |  20000 shares @ 0.051 = $ 1020.00 | sports
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Elon Musk tweet "Hyperliquid" by July 31 |  26315 shares @ 0.039 = $ 1026.29 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Jack Reed be the Democratic nominee for  |  30000 shares @ 0.033 = $  975.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will John E. Sununu be the Republican nominee |  30000 shares @ 0.017 = $  510.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Republican Party win the WA-01 House |  28169 shares @ 0.036 = $ 1028.17 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Democratic Party win the CA-17 
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the AR-01 House |  30000 shares @ 0.017 = $  495.00 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Justin & Hailey Bieber split in 2026?         |  23529 shares @ 0.044 = $ 1023.51 | tech
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the MA-07 House |  21276 shares @ 0.048 = $ 1021.25 | other
+2026-07-06 02:17:38 [polymarket-arb.no_accumulator] INFO: Bought 30 new positions (30/30)
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.0h (0.00d)
+======================================================================
+Portfolio Value:  $  100,000.00
+Cash:             $   76,857.12
+Invested:          $   23,142.88
+Realized P&L:      $       +0.00
+Unrealized P&L:    $       +0.00
+Total P&L:         $       +0.00
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    30
+Daily Rate:        $       +2.21/day
+
+By Category:
+  other       : $  12,910 invested | 16 positions | unreal=$   +0.00
+  sports      : $   3,165 invested |  5 positions | unreal=$   +0.00
+  politics    : $   3,127 invested |  4 positions | unreal=$   +0.00
+  crypto      : $   1,027 invested |  1 positions | unreal=$   +0.00
+  tech        : $   1,024 invested |  1 positions | unreal=$   +0.00
+  business    : $   1,005 invested |  2 positions | unreal=$   +0.00
+  geopolitics : $     885 invested |  1 positions | unreal=$   +0.00
+
+Top Positions (by unrealized P&L):
+  Will the Democratic Party win the MA-07 House |  21276sh @ 0.048→0.048 | $   +0.00
+  Justin & Hailey Bieber split in 2026?         |  23529sh @ 0.044→0.043 | $   +0.00
+  Will the Republican Party win the WA-01 House |  28169sh @ 0.036→0.036 | $   +0.00
+  Will Elon Musk tweet "Hyperliquid" by July 31 |  26315sh @ 0.039→0.039 | $   +0.00
+  Will Jack Reed be the Democratic nominee for  |  30000sh @ 0.033→0.033 | $   +0.00
+  Will New York Giants win the 2027 NFL NFC Cha |  20000sh @ 0.051→0.051 | $   +0.00
+  Ventuals FDV above $300M one day after launch |  27027sh @ 0.038→0.038 | $   +0.00
+  Will the Fed’s lower bound reach 1.75% or low |  22222sh @ 0.046→0.046 | $   +0.00
+  Pacifica FDV above $2B one day after launch?  |  20408sh @ 0.050→0.050 | $   +0.00
+  Will JP Morgan (JPM) Q2 investment banking fe |  30000sh @ 0.026→0.026 | $   +0.00
+======================================================================
+
+2026-07-06 02:17:43 [polymarket-arb.no_accumulator] INFO: Portfolio: $100,000.00 | P&L: $+0.00 | Positions: 30 | Realized: $+0.00 | Unrealized: $+0.00
+2026-07-06 02:22:43 [polymarket-arb.no_accumulator] INFO: Slots full (30/30) or insufficient cash ($76857.12)
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.1h (0.00d)
+======================================================================
+Portfolio Value:  $  100,000.01
+Cash:             $   76,857.12
+Invested:          $   23,142.88
+Realized P&L:      $       +0.00
+Unrealized P&L:    $       +0.01
+Total P&L:         $       +0.01
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    30
+Daily Rate:        $       +3.98/day
+
+By Category:
+  other       : $  12,910 invested | 16 positions | unreal=$   +0.01
+  sports      : $   3,165 invested |  5 positions | unreal=$   +0.00
+  politics    : $   3,127 invested |  4 positions | unreal=$   +0.00
+  crypto      : $   1,027 invested |  1 positions | unreal=$   +0.00
+  tech        : $   1,024 invested |  1 positions | unreal=$   +0.00
+  business    : $   1,005 invested |  2 positions | unreal=$   +0.00
+  geopolitics : $     885 invested |  1 positions | unreal=$   +0.00
+
+Top Positions (by unrealized P&L):
+  Will the Republican Party win the WA-01 House |  28169sh @ 0.036→0.036 | $   +0.00
+  Justin & Hailey Bieber split in 2026?         |  23529sh @ 0.044→0.043 | $   +0.00
+  Will Elon Musk tweet "Hyperliquid" by July 31 |  26315sh @ 0.039→0.039 | $   +0.00
+  Ventuals FDV above $300M one day after launch |  27027sh @ 0.038→0.038 | $   +0.00
+  Will the Democratic Party win the MA-07 House |  21276sh @ 0.048→0.048 | $   +0.00
+  Will the Fed’s lower bound reach 1.75% or low |  22222sh @ 0.046→0.046 | $   +0.00
+  Will New York Giants win the 2027 NFL NFC Cha |  20000sh @ 0.051→0.051 | $   +0.00
+  Pacifica FDV above $2B one day after launch?  |  20408sh @ 0.050→0.050 | $   +0.00
+  Will Bitcoin reach $140,000 by December 31, 2 |  26666sh @ 0.038→0.038 | $   +0.00
+  Will Trump be impeached by end of 2026?       |  27397sh @ 0.037→0.037 | $   +0.00
+======================================================================
+
+2026-07-06 02:22:43 [polymarket-arb.no_accumulator] INFO: Portfolio: $100,000.01 | P&L: $+0.01 | Positions: 30 | Realized: $+0.00 | Unrealized: $+0.01
+2026-07-06 02:27:51 [polymarket-arb.no_accumulator] INFO: Slots full (30/30) or insufficient cash ($76857.12)
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.2h (0.01d)
+======================================================================
+Portfolio Value:  $  100,000.03
+Cash:             $   76,857.12
+Invested:          $   23,142.88
+Realized P&L:      $       +0.00
+Unrealized P&L:    $       +0.03
+Total P&L:         $       +0.03
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    30
+Daily Rate:        $       +4.45/day
+
+By Category:
+  other       : $  12,910 invested | 16 positions | unreal=$   +0.02
+  sports      : $   3,165 invested |  5 positions | unreal=$   +0.00
+  politics    : $   3,127 invested |  4 positions | unreal=$   +0.00
+  crypto      : $   1,027 invested |  1 positions | unreal=$   +0.00
+  tech        : $   1,024 invested |  1 positions | unreal=$   +0.00
+  business    : $   1,005 invested |  2 positions | unreal=$   +0.00
+  geopolitics : $     885 invested |  1 positions | unreal=$   +0.00
+
+Top Positions (by unrealized P&L):
+  Will the Republican Party win the WA-01 House |  28169sh @ 0.036→0.036 | $   +0.00
+  Ventuals FDV above $300M one day after launch |  27027sh @ 0.038→0.038 | $   +0.00
+  Will Elon Musk tweet "Hyperliquid" by July 31 |  26315sh @ 0.039→0.039 | $   +0.00
+  Justin & Hailey Bieber split in 2026?         |  23529sh @ 0.044→0.043 | $   +0.00
+  Will the Democratic Party win the MA-07 House |  21276sh @ 0.048→0.048 | $   +0.00
+  Will the Fed’s lower bound reach 1.75% or low |  22222sh @ 0.046→0.046 | $   +0.00
+  Will New York Giants win the 2027 NFL NFC Cha |  20000sh @ 0.051→0.051 | $   +0.00
+  Pacifica FDV above $2B one day after launch?  |  20408sh @ 0.050→0.050 | $   +0.00
+  Will Trump be impeached by end of 2026?       |  27397sh @ 0.037→0.037 | $   +0.00
+  Will Bitcoin reach $140,000 by December 31, 2 |  26666sh @ 0.038→0.038 | $   +0.00
+======================================================================
+
+2026-07-06 02:27:51 [polymarket-arb.no_accumulator] INFO: Portfolio: $100,000.03 | P&L: $+0.03 | Positions: 30 | Realized: $+0.00 | Unrealized: $+0.03

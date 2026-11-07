@@ -1,0 +1,553 @@
+/home/star/polymarket-arb-bot/src/yes_mm.py:593: SyntaxWarning: invalid escape sequence '\$'
+  f"PROFIT \${profit:+.2f} ({roi:.0f}%) | "
+/home/star/polymarket-arb-bot/src/yes_mm.py:766: SyntaxWarning: invalid escape sequence '\$'
+  f"{shares:>6} sh | \${cost:>7.2f} | profit=\${expected_profit:.2f} ({roi:.0f}%)"
+/home/star/polymarket-arb-bot/src/yes_mm.py:766: SyntaxWarning: invalid escape sequence '\$'
+  f"{shares:>6} sh | \${cost:>7.2f} | profit=\${expected_profit:.2f} ({roi:.0f}%)"
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: Fresh start — $100,000.00 capital, 50 max positions
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: ======================================================================
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: YES-SIDE MARKET MAKER BOT
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: Capital: $100,000.00 | Budget: $1000.0/position
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: YES range: 1¢-10¢ | Min spread: 0.1¢
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: Max positions: 50 | Scan: every 15s
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: State: /home/star/polymarket-arb-bot/data/yes_mm/state.json
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: Mode: PAPER (no proxy — use --proxy-host for live orders)
+2026-07-06 09:08:43 [polymarket-arb.yes_mm] INFO: ======================================================================
+2026-07-06 09:08:45 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 302 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Brian Shortsleeve win the 2026 Massac | buy@0.3¢ sell@3.2¢ spread=2.9¢ |  30000 sh | $  90.00 | profit=$870.00 (967%) | vol=$1063 score=9212.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Petr Yan fight Alexander Volkanovski  | buy@0.4¢ sell@2.3¢ spread=1.9¢ |  30000 sh | $ 120.00 | profit=$570.00 (475%) | vol=$658 score=2467.7
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Edna DeVries advance from the 2026 Al | buy@0.3¢ sell@2.1¢ spread=1.8¢ |  30000 sh | $  90.00 | profit=$540.00 (600%) | vol=$967 score=461.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will the Republican Party hold between 195 | buy@8.0¢ sell@10.0¢ spread=2.0¢ |  12500 sh | $1000.00 | profit=$250.00 (25%) | vol=$1131 score=240.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Donald Trump win the Nobel Peace Priz | buy@5.0¢ sell@6.0¢ spread=1.0¢ |  20000 sh | $1000.00 | profit=$200.00 (20%) | vol=$35616 score=231.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Bitcoin reach $120,000 by December 31 | buy@4.0¢ sell@5.0¢ spread=1.0¢ |  25000 sh | $1000.00 | profit=$250.00 (25%) | vol=$2938 score=166.5
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Trump, Putin, and Zelensky meet together b | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | $ 999.96 | profit=$166.66 (17%) | vol=$1801 score=158.1
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: StandX FDV above $7B one day after launch? | buy@1.0¢ sell@1.7¢ spread=0.7¢ |  30000 sh | $ 300.00 | profit=$210.00 (70%) | vol=$956 score=155.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Yulia Navalnaya win the Nobel Peace P | buy@7.0¢ sell@8.0¢ spread=1.0¢ |  14285 sh | $ 999.95 | profit=$142.85 (14%) | vol=$731 score=137.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Barbara Kirkmeyer win the 2026 Colora | buy@0.3¢ sell@3.0¢ spread=2.7¢ |  30000 sh | $  90.00 | profit=$810.00 (900%) | vol=$906 score=133.0
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Iran withdraw from the NPT before 202 | buy@8.6¢ sell@9.6¢ spread=1.0¢ |  11627 sh | $ 999.92 | profit=$116.27 (12%) | vol=$52142 score=129.3
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Belgium win the 2026 FIFA World Cup?  | buy@1.3¢ sell@1.4¢ spread=0.1¢ |  30000 sh | $ 390.00 | profit=$30.00 (8%) | vol=$3217596 score=123.1
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Ink FDV above $2B one day after launch?    | buy@7.0¢ sell@9.0¢ spread=2.0¢ |  14285 sh | $ 999.95 | profit=$285.70 (29%) | vol=$665 score=121.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Iran nuclear test before 2027?             | buy@4.0¢ sell@5.0¢ spread=1.0¢ |  25000 sh | $1000.00 | profit=$250.00 (25%) | vol=$2217 score=103.9
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will the Iranian regime fall before 2027?  | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | $ 999.96 | profit=$166.66 (17%) | vol=$22088 score=102.5
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Jean-Luc Mélenchon win the 2027 Frenc | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | $ 999.99 | profit=$111.11 (11%) | vol=$9668 score=98.1
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: 10.0 or above earthquake before 2027?      | buy@1.6¢ sell@2.3¢ spread=0.7¢ |  30000 sh | $ 480.00 | profit=$210.00 (44%) | vol=$34105 score=97.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Africa (CAF) win the 2026 FIFA World  | buy@2.8¢ sell@3.2¢ spread=0.4¢ |  30000 sh | $ 840.00 | profit=$120.00 (14%) | vol=$22359 score=96.8
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: GTA 6 launch postponed again?              | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | $ 999.99 | profit=$111.11 (11%) | vol=$1708 score=86.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Trump out as President before 2027?        | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | $ 999.96 | profit=$166.66 (17%) | vol=$19792 score=76.7
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Saudi Arabia join the Abraham Accords | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | $ 999.96 | profit=$166.66 (17%) | vol=$877 score=72.7
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Bitcoin all time high by December 31, 2026 | buy@5.0¢ sell@6.0¢ spread=1.0¢ |  20000 sh | $1000.00 | profit=$200.00 (20%) | vol=$968 score=70.8
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Zelenskyy and Putin meet next in Qata | buy@1.3¢ sell@2.2¢ spread=0.9¢ |  30000 sh | $ 390.00 | profit=$270.00 (69%) | vol=$926 score=65.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Lamine Yamal win the 2026 Ballon d'Or | buy@7.0¢ sell@8.0¢ spread=1.0¢ |  14285 sh | $ 999.95 | profit=$142.85 (14%) | vol=$1681 score=62.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Michelle Bolsonaro win the 2026 Brazi | buy@1.4¢ sell@1.8¢ spread=0.4¢ |  30000 sh | $ 420.00 | profit=$120.00 (29%) | vol=$4602 score=62.3
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will the US confirm that aliens exist befo | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | $ 999.96 | profit=$166.66 (17%) | vol=$23464 score=61.7
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Colombia win the 2026 FIFA World Cup? | buy@3.0¢ sell@3.1¢ spread=0.1¢ |  30000 sh | $ 900.00 | profit=$30.00 (3%) | vol=$1981706 score=61.0
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Putin out as President of Russia by Decemb | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | $ 999.99 | profit=$111.11 (11%) | vol=$109203 score=58.9
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Bitcoin reach $200,000 by December 31 | buy@1.5¢ sell@1.6¢ spread=0.1¢ |  30000 sh | $ 450.00 | profit=$30.00 (7%) | vol=$6063 score=58.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Trump meet with iShowSpeed in 2026?   | buy@9.3¢ sell@10.5¢ spread=1.2¢ |  10752 sh | $ 999.94 | profit=$129.02 (13%) | vol=$664 score=56.1
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Marine Le Pen win the 2027 French pre | buy@8.0¢ sell@9.0¢ spread=1.0¢ |  12500 sh | $1000.00 | profit=$125.00 (12%) | vol=$3852 score=55.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will 2 Fed rate cuts happen in 2026?       | buy@3.5¢ sell@3.7¢ spread=0.2¢ |  28571 sh | $ 999.99 | profit=$57.14 (6%) | vol=$8782 score=53.9
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will 3 Fed rate cuts happen in 2026?       | buy@1.8¢ sell@2.0¢ spread=0.2¢ |  30000 sh | $ 540.00 | profit=$60.00 (11%) | vol=$2227 score=53.8
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will David Lisnard win the 2027 French pre | buy@1.5¢ sell@1.6¢ spread=0.1¢ |  30000 sh | $ 450.00 | profit=$30.00 (7%) | vol=$2162 score=45.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Opensea FDV above $3B one day after launch | buy@5.7¢ sell@6.1¢ spread=0.4¢ |  17543 sh | $ 999.95 | profit=$70.17 (7%) | vol=$506 score=44.5
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: StandX FDV above $3B one day after launch? | buy@3.7¢ sell@5.6¢ spread=1.9¢ |  27027 sh | $1000.00 | profit=$513.51 (51%) | vol=$938 score=44.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Tempo launch a token by September 30, | buy@1.0¢ sell@1.6¢ spread=0.6¢ |  30000 sh | $ 300.00 | profit=$180.00 (60%) | vol=$1321 score=42.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Charles Leclerc be the 2026 F1 Driver | buy@2.8¢ sell@2.9¢ spread=0.1¢ |  30000 sh | $ 840.00 | profit=$30.00 (4%) | vol=$81770 score=40.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Dwayne 'The Rock' Johnson win the 202 | buy@1.1¢ sell@1.2¢ spread=0.1¢ |  30000 sh | $ 330.00 | profit=$30.00 (9%) | vol=$7573 score=39.4
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Bernie endorse Antonio Delgado for NY | buy@3.3¢ sell@3.8¢ spread=0.5¢ |  30000 sh | $ 990.00 | profit=$150.00 (15%) | vol=$500 score=39.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will François Hollande win the 2027 French | buy@2.8¢ sell@2.9¢ spread=0.1¢ |  30000 sh | $ 840.00 | profit=$30.00 (4%) | vol=$6568 score=36.6
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Ro Khanna win the 2028 Democratic pre | buy@1.6¢ sell@1.7¢ spread=0.1¢ |  30000 sh | $ 480.00 | profit=$30.00 (6%) | vol=$882 score=33.5
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Rahm Emanuel win the 2028 Democratic  | buy@1.6¢ sell@1.7¢ spread=0.1¢ |  30000 sh | $ 480.00 | profit=$30.00 (6%) | vol=$5027 score=30.9
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Max Verstappen be the 2026 F1 Drivers | buy@2.2¢ sell@2.3¢ spread=0.1¢ |  30000 sh | $ 660.00 | profit=$30.00 (5%) | vol=$39553 score=29.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Andy Beshear win the 2028 Democratic  | buy@2.2¢ sell@2.3¢ spread=0.1¢ |  30000 sh | $ 660.00 | profit=$30.00 (5%) | vol=$3211 score=29.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Greta Thunberg win the Nobel Peace Pr | buy@1.5¢ sell@1.6¢ spread=0.1¢ |  30000 sh | $ 450.00 | profit=$30.00 (7%) | vol=$5546 score=29.0
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will the Sweden Democrats (SD) win the mos | buy@2.5¢ sell@2.9¢ spread=0.4¢ |  30000 sh | $ 750.00 | profit=$120.00 (16%) | vol=$2016 score=27.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: China x India military clash by December 3 | buy@7.0¢ sell@9.0¢ spread=2.0¢ |  14285 sh | $ 999.95 | profit=$285.70 (29%) | vol=$517 score=27.2
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Vitinha win the 2026 Ballon d'Or?     | buy@1.3¢ sell@1.4¢ spread=0.1¢ |  30000 sh | $ 390.00 | profit=$30.00 (8%) | vol=$1679 score=26.1
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO:   OPEN: Will Zelenskyy and Putin meet next in Turk | buy@1.2¢ sell@1.6¢ spread=0.4¢ |  30000 sh | $ 360.00 | profit=$120.00 (33%) | vol=$906 score=25.0
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO: Opened 50 new positions (50/50)
+2026-07-06 09:10:49 [polymarket-arb.yes_mm] INFO: Scan #1: 50 active positions, 0 cooling down, 0 round trips, $+0.00 profit, $63,920.64 cash
+2026-07-06 09:11:07 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 302 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:11:19 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Charles Leclerc be the 2026 F1 Driver |  30000 sh @ 2.8¢ | Now selling @ 2.9¢
+2026-07-06 09:11:26 [polymarket-arb.yes_mm] INFO: Scan #2: 50 active positions, 0 cooling down, 0 round trips, $+0.00 profit, $63,920.64 cash
+2026-07-06 09:11:35 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Republican Party hold between 1 | bid@8.0¢ (2.0%/scan)
+2026-07-06 09:11:36 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Iran withdraw from the NPT before 202 |  11627 sh @ 8.6¢ | Now selling @ 9.6¢
+2026-07-06 09:11:37 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Iran nuclear test before 2027?           | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:11:38 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Trump out as President before 2027?      | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:11:41 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Tempo launch a token by September 30, |  30000 sh @ 1.0¢ | Now selling @ 1.6¢
+2026-07-06 09:11:43 [polymarket-arb.yes_mm] INFO: Scan #3: 50 active positions, 0 cooling down, 0 round trips, $+0.00 profit, $63,920.64 cash
+2026-07-06 09:11:54 [polymarket-arb.yes_mm] INFO:   BUY FILLED: GTA 6 launch postponed again?              |  11111 sh @ 9.0¢ | Now selling @ 10.0¢
+2026-07-06 09:11:55 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the US confirm that aliens exist befo |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:12:03 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:12:04 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:12:04 [polymarket-arb.yes_mm] INFO: Scan #4: 50 active positions, 0 cooling down, 0 round trips, $+0.00 profit, $63,920.64 cash
+2026-07-06 09:12:16 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Iran withdraw from the NPT before 2 |  11627 sh buy@8.6¢ sell@9.6¢ | PROFIT \$+116.27 (12%) | #1 total
+2026-07-06 09:12:29 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Putin out as President of Russia by Decemb |  11111 sh @ 9.0¢ | Now selling @ 10.0¢
+2026-07-06 09:13:56 [polymarket-arb.yes_mm] INFO:   OPEN: Will Erling Haaland win the 2026 Ballon d' | buy@4.8¢ sell@5.3¢ spread=0.5¢ |  20833 sh | $ 999.98 | profit=$104.16 (10%) | vol=$3998 score=72.5
+2026-07-06 09:13:56 [polymarket-arb.yes_mm] INFO: Opened 1 new positions (50/50)
+2026-07-06 09:13:56 [polymarket-arb.yes_mm] INFO: Scan #5: 50 active positions, 1 cooling down, 1 round trips, $+116.27 profit, $64,036.84 cash
+2026-07-06 09:14:02 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 302 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:14:03 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Republican Party hold between 1 | bid@8.0¢ (2.0%/scan)
+2026-07-06 09:14:05 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Jean-Luc Mélenchon win the 2027 Frenc |  11111 sh @ 9.0¢ | Now selling @ 10.0¢
+2026-07-06 09:14:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Saudi Arabia join the Abraham Accor | bid@6.0¢ (0.8%/scan)
+2026-07-06 09:14:07 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Trump meet with iShowSpeed in 2026? | bid@9.3¢ (0.8%/scan)
+2026-07-06 09:14:08 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will 2 Fed rate cuts happen in 2026?       |  28571 sh @ 3.5¢ | Now selling @ 3.7¢
+2026-07-06 09:14:14 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Dwayne 'The Rock' Johnson win the 2 | bid@1.1¢ (2.0%/scan)
+2026-07-06 09:14:15 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Ro Khanna win the 2028 Democratic p | bid@1.6¢ (0.8%/scan)
+2026-07-06 09:14:16 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:14:17 [polymarket-arb.yes_mm] INFO: Scan #6: 50 active positions, 1 cooling down, 1 round trips, $+116.27 profit, $64,036.84 cash
+2026-07-06 09:14:30 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Donald Trump win the Nobel Peace Pr | bid@5.0¢ (5.0%/scan)
+2026-07-06 09:14:32 [polymarket-arb.yes_mm] INFO:   BUY FILLED: 10.0 or above earthquake before 2027?      |  30000 sh @ 1.6¢ | Now selling @ 2.3¢
+2026-07-06 09:14:38 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Erling Haaland win the 2026 Ballon d' |  20833 sh @ 4.8¢ | Now selling @ 5.3¢
+2026-07-06 09:14:38 [polymarket-arb.yes_mm] INFO: Scan #7: 50 active positions, 1 cooling down, 1 round trips, $+116.27 profit, $64,036.84 cash
+2026-07-06 09:14:45 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Petr Yan fight Alexander Volkanovsk | bid@0.4¢ (0.8%/scan)
+2026-07-06 09:14:45 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the Republican Party hold between 195 |  12500 sh @ 8.0¢ | Now selling @ 10.0¢
+2026-07-06 09:14:45 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Donald Trump win the Nobel Peace Priz |  20000 sh @ 5.0¢ | Now selling @ 6.0¢
+2026-07-06 09:14:47 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the Iranian regime fall before 2027?  |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:14:47 [polymarket-arb.yes_mm] INFO:   WAIT SELL: 10.0 or above earthquake before 2027?    | ask@2.3¢ (5.0%/scan)
+2026-07-06 09:15:03 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Erling Haaland win the 2026 Ballon  |  20833 sh buy@4.8¢ sell@5.3¢ | PROFIT \$+104.16 (10%) | #2 total
+2026-07-06 09:15:03 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Iran withdraw from the NPT before 202 | buy@8.4¢ sell@9.6¢ spread=1.2¢ |  11904 sh | \$ 999.94 | profit=\$142.85 (14%)
+2026-07-06 09:15:03 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:15:03 [polymarket-arb.yes_mm] INFO: Scan #8: 50 active positions, 1 cooling down, 2 round trips, $+220.43 profit, $64,141.06 cash
+2026-07-06 09:15:20 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Petr Yan fight Alexander Volkanovsk | bid@0.4¢ (0.8%/scan)
+2026-07-06 09:15:20 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Donald Trump win the Nobel Peace Pr | ask@6.0¢ (5.0%/scan)
+2026-07-06 09:15:23 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Trump out as President before 2027?        |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:15:48 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Iran withdraw from the NPT before 2 | 0.6¢ → 1.1¢ (+83%) | bid=8.5¢ ask=9.6¢
+2026-07-06 09:15:48 [polymarket-arb.yes_mm] INFO: Scan #9: 50 active positions, 1 cooling down, 2 round trips, $+220.43 profit, $64,141.06 cash
+2026-07-06 09:16:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:16:13 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Zelenskyy and Putin meet next in Qa | bid@1.3¢ (0.8%/scan)
+2026-07-06 09:16:13 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Lamine Yamal win the 2026 Ballon d' | bid@7.0¢ (2.0%/scan)
+2026-07-06 09:16:14 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Colombia win the 2026 FIFA World Cup? |  30000 sh @ 3.0¢ | Now selling @ 3.1¢
+2026-07-06 09:16:14 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Putin out as President of Russia by Dece |  11111 sh buy@9.0¢ sell@10.0¢ | PROFIT \$+111.11 (11%) | #3 total
+2026-07-06 09:16:15 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Marine Le Pen win the 2027 French pre |  12500 sh @ 8.0¢ | Now selling @ 9.0¢
+2026-07-06 09:16:16 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Charles Leclerc be the 2026 F1 Driv | ask@2.9¢ (8.0%/scan)
+2026-07-06 09:16:22 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Max Verstappen be the 2026 F1 Drive | bid@2.2¢ (5.0%/scan)
+2026-07-06 09:16:23 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:16:23 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Erling Haaland win the 2026 Ballon d' | buy@4.8¢ sell@5.3¢ spread=0.5¢ |  20833 sh | \$ 999.98 | profit=\$104.16 (10%)
+2026-07-06 09:16:23 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:16:23 [polymarket-arb.yes_mm] INFO: Scan #10: 50 active positions, 1 cooling down, 3 round trips, $+331.55 profit, $64,252.17 cash
+2026-07-06 09:16:37 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 302 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:16:38 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Donald Trump win the Nobel Peace Pr |  20000 sh buy@5.0¢ sell@6.0¢ | PROFIT \$+200.00 (20%) | #4 total
+2026-07-06 09:16:45 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will the Iranian regime fall before 2027 | ask@7.0¢ (5.0%/scan)
+2026-07-06 09:16:48 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $3B one day after launc | bid@3.7¢ (0.8%/scan)
+2026-07-06 09:16:50 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Sweden Democrats (SD) win the m | bid@2.5¢ (2.0%/scan)
+2026-07-06 09:16:51 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Putin out as President of Russia by Decemb | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | \$ 999.99 | profit=\$111.11 (11%)
+2026-07-06 09:16:51 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:16:51 [polymarket-arb.yes_mm] INFO: Scan #11: 50 active positions, 1 cooling down, 4 round trips, $+531.55 profit, $64,452.18 cash
+2026-07-06 09:17:02 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will the Iranian regime fall before 2027 | ask@7.0¢ (5.0%/scan)
+2026-07-06 09:17:08 [polymarket-arb.yes_mm] INFO: Scan #12: 50 active positions, 1 cooling down, 4 round trips, $+531.55 profit, $64,452.18 cash
+2026-07-06 09:17:17 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Iran nuclear test before 2027?           | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:17:25 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will David Lisnard win the 2027 French p | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:17:27 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Andy Beshear win the 2028 Democrati | bid@2.2¢ (2.0%/scan)
+2026-07-06 09:17:28 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:17:28 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Zelenskyy and Putin meet next in Tu | bid@1.2¢ (0.8%/scan)
+2026-07-06 09:17:28 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Putin out as President of Russia by Dece | bid@9.0¢ (5.0%/scan)
+2026-07-06 09:17:28 [polymarket-arb.yes_mm] INFO: Scan #13: 50 active positions, 1 cooling down, 4 round trips, $+531.55 profit, $64,452.18 cash
+2026-07-06 09:17:44 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Michelle Bolsonaro win the 2026 Bra | bid@1.4¢ (2.0%/scan)
+2026-07-06 09:17:49 [polymarket-arb.yes_mm] INFO: Scan #14: 50 active positions, 1 cooling down, 4 round trips, $+531.55 profit, $64,452.18 cash
+2026-07-06 09:18:01 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Trump, Putin, and Zelensky meet together b |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:18:03 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump out as President before 2027?      | ask@7.0¢ (5.0%/scan)
+2026-07-06 09:18:07 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:18:07 [polymarket-arb.yes_mm] INFO:   WAIT BUY: China x India military clash by December | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:18:08 [polymarket-arb.yes_mm] INFO: Scan #15: 50 active positions, 1 cooling down, 4 round trips, $+531.55 profit, $64,452.18 cash
+2026-07-06 09:18:16 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Barbara Kirkmeyer win the 2026 Colo | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:18:17 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will the Iranian regime fall before 2027 |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #5 total
+2026-07-06 09:18:22 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:18:23 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:18:23 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Iran withdraw from the NPT before 2 | 0.8¢ → 1.3¢ (+62%) | bid=8.2¢ ask=9.5¢
+2026-07-06 09:18:23 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Putin out as President of Russia by Decemb |  11111 sh @ 9.0¢ | Now selling @ 10.0¢
+2026-07-06 09:18:24 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Donald Trump win the Nobel Peace Priz | buy@5.0¢ sell@6.0¢ spread=1.0¢ |  20000 sh | \$1000.00 | profit=\$200.00 (20%)
+2026-07-06 09:18:24 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:18:24 [polymarket-arb.yes_mm] INFO: Scan #16: 50 active positions, 1 cooling down, 5 round trips, $+698.21 profit, $64,618.80 cash
+2026-07-06 09:18:32 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 307 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:18:41 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Lamine Yamal win the 2026 Ballon d' | bid@7.0¢ (2.0%/scan)
+2026-07-06 09:18:43 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $3B one day after launc | bid@3.7¢ (0.8%/scan)
+2026-07-06 09:18:44 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Dwayne 'The Rock' Johnson win the 2 | bid@1.1¢ (2.0%/scan)
+2026-07-06 09:18:46 [polymarket-arb.yes_mm] INFO: Scan #17: 50 active positions, 1 cooling down, 5 round trips, $+698.21 profit, $64,618.80 cash
+2026-07-06 09:19:24 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Marine Le Pen win the 2027 French p |  12500 sh buy@8.0¢ sell@9.0¢ | PROFIT \$+125.00 (12%) | #6 total
+2026-07-06 09:19:39 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will the Iranian regime fall before 2027?  | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:19:39 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:19:39 [polymarket-arb.yes_mm] INFO: Scan #18: 50 active positions, 1 cooling down, 6 round trips, $+823.21 profit, $64,743.84 cash
+2026-07-06 09:19:45 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump, Putin, and Zelensky meet together | ask@7.0¢ (2.0%/scan)
+2026-07-06 09:19:52 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump out as President before 2027?      | ask@7.0¢ (5.0%/scan)
+2026-07-06 09:19:55 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will David Lisnard win the 2027 French p | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:19:55 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Dwayne 'The Rock' Johnson win the 2 | bid@1.1¢ (2.0%/scan)
+2026-07-06 09:20:07 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Andy Beshear win the 2028 Democrati | bid@2.2¢ (2.0%/scan)
+2026-07-06 09:20:13 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Putin out as President of Russia by Dece | ask@10.0¢ (5.0%/scan)
+2026-07-06 09:20:13 [polymarket-arb.yes_mm] INFO: Scan #19: 50 active positions, 1 cooling down, 6 round trips, $+823.21 profit, $64,743.84 cash
+2026-07-06 09:20:22 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Africa (CAF) win the 2026 FIFA World  |  30000 sh @ 2.8¢ | Now selling @ 3.2¢
+2026-07-06 09:20:24 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Colombia win the 2026 FIFA World Cu |  30000 sh buy@3.0¢ sell@3.1¢ | PROFIT \$+30.00 (3%) | #7 total
+2026-07-06 09:20:26 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will François Hollande win the 2027 Fren | bid@2.8¢ (2.0%/scan)
+2026-07-06 09:20:26 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Max Verstappen be the 2026 F1 Drive | bid@2.2¢ (5.0%/scan)
+2026-07-06 09:20:27 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:20:28 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Marine Le Pen win the 2027 French pre | buy@8.0¢ sell@9.0¢ spread=1.0¢ |  12500 sh | \$1000.00 | profit=\$125.00 (12%)
+2026-07-06 09:20:28 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:20:28 [polymarket-arb.yes_mm] INFO: Scan #20: 50 active positions, 1 cooling down, 7 round trips, $+853.21 profit, $64,673.84 cash
+2026-07-06 09:20:32 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Iran nuclear test before 2027?           | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:20:32 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Jean-Luc Mélenchon win the 2027 Fre | ask@10.0¢ (2.0%/scan)
+2026-07-06 09:20:32 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Africa (CAF) win the 2026 FIFA Worl |  30000 sh buy@2.8¢ sell@3.2¢ | PROFIT \$+120.00 (14%) | #8 total
+2026-07-06 09:20:41 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Ro Khanna win the 2028 Democratic p | bid@1.6¢ (0.8%/scan)
+2026-07-06 09:22:16 [polymarket-arb.yes_mm] INFO:   OPEN: Fed emergency rate cut before 2027?        | buy@6.0¢ sell@9.0¢ spread=3.0¢ |  16666 sh | $ 999.96 | profit=$499.98 (50%) | vol=$3350 score=95.2
+2026-07-06 09:22:16 [polymarket-arb.yes_mm] INFO: Opened 1 new positions (50/50)
+2026-07-06 09:22:16 [polymarket-arb.yes_mm] INFO: Scan #21: 50 active positions, 2 cooling down, 8 round trips, $+973.21 profit, $64,633.88 cash
+2026-07-06 09:22:32 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 308 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:22:34 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Barbara Kirkmeyer win the 2026 Colo | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:22:37 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Bitcoin reach $200,000 by December 31 |  30000 sh @ 1.5¢ | Now selling @ 1.6¢
+2026-07-06 09:22:37 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will 3 Fed rate cuts happen in 2026?     | bid@1.8¢ (2.0%/scan)
+2026-07-06 09:22:38 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Opensea FDV above $3B one day after laun | bid@5.7¢ (0.8%/scan)
+2026-07-06 09:22:38 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Charles Leclerc be the 2026 F1 Driv |  30000 sh buy@2.8¢ sell@2.9¢ | PROFIT \$+30.00 (4%) | #9 total
+2026-07-06 09:22:39 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Ro Khanna win the 2028 Democratic p | bid@1.6¢ (0.8%/scan)
+2026-07-06 09:22:45 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:22:46 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Erling Haaland win the 2026 Ballon d' |  20833 sh @ 4.8¢ | Now selling @ 5.3¢
+2026-07-06 09:22:47 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Colombia win the 2026 FIFA World Cup? | buy@3.0¢ sell@3.1¢ spread=0.1¢ |  30000 sh | \$ 900.00 | profit=\$30.00 (3%)
+2026-07-06 09:22:47 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:22:47 [polymarket-arb.yes_mm] INFO: Scan #22: 50 active positions, 2 cooling down, 9 round trips, $+1003.21 profit, $64,603.88 cash
+2026-07-06 09:23:00 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Brian Shortsleeve win the 2026 Mass | bid@0.3¢ (2.0%/scan)
+2026-07-06 09:23:02 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Jean-Luc Mélenchon win the 2027 Fre |  11111 sh buy@9.0¢ sell@10.0¢ | PROFIT \$+111.11 (11%) | #10 total
+2026-07-06 09:23:09 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will 3 Fed rate cuts happen in 2026?     | bid@1.8¢ (2.0%/scan)
+2026-07-06 09:23:13 [polymarket-arb.yes_mm] INFO:   📈 SPREAD NARROWED: Fed emergency rate cut before 2027?      | 2.0¢ → 1.0¢ (-50%) | bid=7.0¢ ask=8.0¢
+2026-07-06 09:23:13 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Africa (CAF) win the 2026 FIFA World  | buy@2.9¢ sell@3.2¢ spread=0.3¢ |  30000 sh | \$ 870.00 | profit=\$90.00 (10%)
+2026-07-06 09:23:13 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:23:13 [polymarket-arb.yes_mm] INFO: Scan #23: 50 active positions, 2 cooling down, 10 round trips, $+1114.32 profit, $64,844.98 cash
+2026-07-06 09:23:15 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Brian Shortsleeve win the 2026 Massac |  30000 sh @ 0.3¢ | Now selling @ 3.2¢
+2026-07-06 09:23:23 [polymarket-arb.yes_mm] INFO: Scan #24: 50 active positions, 2 cooling down, 10 round trips, $+1114.32 profit, $64,844.98 cash
+2026-07-06 09:23:48 [polymarket-arb.yes_mm] INFO: Scan #25: 50 active positions, 2 cooling down, 10 round trips, $+1114.32 profit, $64,844.98 cash
+2026-07-06 09:24:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:24:02 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump out as President before 2027?      | ask@7.0¢ (5.0%/scan)
+2026-07-06 09:24:03 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will the US confirm that aliens exist be |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #11 total
+2026-07-06 09:24:05 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Tempo launch a token by September 3 | ask@1.6¢ (2.0%/scan)
+2026-07-06 09:24:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Andy Beshear win the 2028 Democrati | bid@2.2¢ (2.0%/scan)
+2026-07-06 09:24:07 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Iran withdraw from the NPT before 202 |  11904 sh @ 8.4¢ | Now selling @ 9.6¢
+2026-07-06 09:24:08 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Charles Leclerc be the 2026 F1 Driver | buy@2.8¢ sell@2.9¢ spread=0.1¢ |  30000 sh | \$ 840.00 | profit=\$30.00 (4%)
+2026-07-06 09:24:08 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:24:08 [polymarket-arb.yes_mm] INFO: Scan #26: 50 active positions, 2 cooling down, 11 round trips, $+1280.98 profit, $65,171.60 cash
+2026-07-06 09:24:15 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Edna DeVries advance from the 2026  | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:24:15 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Trump, Putin, and Zelensky meet together |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #12 total
+2026-07-06 09:24:33 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Erling Haaland win the 2026 Ballon  | ask@5.3¢ (2.0%/scan)
+2026-07-06 09:24:38 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Fed emergency rate cut before 2027?      | 1.0¢ → 2.0¢ (+100%) | bid=7.0¢ ask=9.0¢
+2026-07-06 09:24:39 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Jean-Luc Mélenchon win the 2027 Frenc | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | \$ 999.99 | profit=\$111.11 (11%)
+2026-07-06 09:24:39 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:24:39 [polymarket-arb.yes_mm] INFO: Scan #27: 50 active positions, 2 cooling down, 12 round trips, $+1447.64 profit, $65,338.23 cash
+2026-07-06 09:24:47 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 307 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:24:56 [polymarket-arb.yes_mm] INFO: Scan #28: 50 active positions, 2 cooling down, 12 round trips, $+1447.64 profit, $65,338.23 cash
+2026-07-06 09:25:00 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Edna DeVries advance from the 2026  | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:25:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $7B one day after launc | bid@1.0¢ (0.8%/scan)
+2026-07-06 09:25:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:25:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:25:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Sweden Democrats (SD) win the m | bid@2.5¢ (2.0%/scan)
+2026-07-06 09:25:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Zelenskyy and Putin meet next in Tu | bid@1.2¢ (0.8%/scan)
+2026-07-06 09:25:08 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Charles Leclerc be the 2026 F1 Driver |  30000 sh @ 2.8¢ | Now selling @ 2.9¢
+2026-07-06 09:25:08 [polymarket-arb.yes_mm] INFO: Scan #29: 50 active positions, 2 cooling down, 12 round trips, $+1447.64 profit, $65,338.23 cash
+2026-07-06 09:25:17 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Zelenskyy and Putin meet next in Qata |  30000 sh @ 1.3¢ | Now selling @ 2.2¢
+2026-07-06 09:25:23 [polymarket-arb.yes_mm] INFO: Scan #30: 50 active positions, 2 cooling down, 12 round trips, $+1447.64 profit, $65,338.23 cash
+2026-07-06 09:25:39 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Lamine Yamal win the 2026 Ballon d'Or |  14285 sh @ 7.0¢ | Now selling @ 8.0¢
+2026-07-06 09:25:48 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Erling Haaland win the 2026 Ballon  | 0.5¢ → 0.9¢ (+80%) | bid=4.8¢ ask=5.7¢
+2026-07-06 09:25:49 [polymarket-arb.yes_mm] INFO: Scan #31: 50 active positions, 2 cooling down, 12 round trips, $+1447.64 profit, $65,338.23 cash
+2026-07-06 09:26:04 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will 3 Fed rate cuts happen in 2026?     | bid@1.8¢ (2.0%/scan)
+2026-07-06 09:26:04 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will David Lisnard win the 2027 French pre |  30000 sh @ 1.5¢ | Now selling @ 1.6¢
+2026-07-06 09:26:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Vitinha win the 2026 Ballon d'Or?   | bid@1.3¢ (2.0%/scan)
+2026-07-06 09:26:13 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Colombia win the 2026 FIFA World Cup? |  30000 sh @ 3.0¢ | Now selling @ 3.1¢
+2026-07-06 09:26:13 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Charles Leclerc be the 2026 F1 Driv |  30000 sh buy@2.8¢ sell@2.9¢ | PROFIT \$+30.00 (4%) | #13 total
+2026-07-06 09:26:14 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will the US confirm that aliens exist befo | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:26:14 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:26:14 [polymarket-arb.yes_mm] INFO: Scan #32: 50 active positions, 2 cooling down, 13 round trips, $+1477.64 profit, $65,208.27 cash
+2026-07-06 09:26:30 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bitcoin reach $120,000 by December  | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:26:33 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will 2 Fed rate cuts happen in 2026?     | 0.2¢ → 0.3¢ (+50%) | bid=3.4¢ ask=3.7¢
+2026-07-06 09:26:34 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $3B one day after launc | bid@3.7¢ (0.8%/scan)
+2026-07-06 09:26:34 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Dwayne 'The Rock' Johnson win the 2 | bid@1.1¢ (2.0%/scan)
+2026-07-06 09:26:36 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Donald Trump win the Nobel Peace Pr | bid@5.0¢ (5.0%/scan)
+2026-07-06 09:26:37 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Africa (CAF) win the 2026 FIFA World  |  30000 sh @ 2.9¢ | Now selling @ 3.2¢
+2026-07-06 09:26:38 [polymarket-arb.yes_mm] INFO: Scan #33: 50 active positions, 2 cooling down, 13 round trips, $+1477.64 profit, $65,208.27 cash
+2026-07-06 09:26:45 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will the Republican Party hold between 1 | ask@10.0¢ (2.0%/scan)
+2026-07-06 09:26:46 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Iran nuclear test before 2027?             |  25000 sh @ 4.0¢ | Now selling @ 5.0¢
+2026-07-06 09:26:50 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Rahm Emanuel win the 2028 Democrati | bid@1.6¢ (2.0%/scan)
+2026-07-06 09:26:51 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:26:58 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Colombia win the 2026 FIFA World Cu | ask@3.1¢ (5.0%/scan)
+2026-07-06 09:26:58 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Jean-Luc Mélenchon win the 2027 Fre | bid@9.0¢ (2.0%/scan)
+2026-07-06 09:26:58 [polymarket-arb.yes_mm] INFO: Scan #34: 50 active positions, 2 cooling down, 13 round trips, $+1477.64 profit, $65,208.27 cash
+2026-07-06 09:27:02 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 306 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:27:03 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will the Republican Party hold between 1 | ask@10.0¢ (2.0%/scan)
+2026-07-06 09:27:04 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: 10.0 or above earthquake before 2027?    |  30000 sh buy@1.6¢ sell@2.3¢ | PROFIT \$+210.00 (44%) | #14 total
+2026-07-06 09:27:09 [polymarket-arb.yes_mm] INFO:   WAIT BUY: China x India military clash by December | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:27:09 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Iran withdraw from the NPT before 2 |  11904 sh buy@8.4¢ sell@9.6¢ | PROFIT \$+142.85 (14%) | #15 total
+2026-07-06 09:27:11 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Trump, Putin, and Zelensky meet together b | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:27:11 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Charles Leclerc be the 2026 F1 Driver | buy@2.8¢ sell@2.9¢ spread=0.1¢ |  30000 sh | \$ 840.00 | profit=\$30.00 (4%)
+2026-07-06 09:27:11 [polymarket-arb.yes_mm] INFO: Re-entered 2 markets after cooldown
+2026-07-06 09:27:11 [polymarket-arb.yes_mm] INFO: Scan #35: 50 active positions, 2 cooling down, 15 round trips, $+1830.48 profit, $65,201.10 cash
+2026-07-06 09:27:15 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Brian Shortsleeve win the 2026 Mass | ask@3.2¢ (2.0%/scan)
+2026-07-06 09:27:16 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Belgium win the 2026 FIFA World Cup?  |  30000 sh @ 1.3¢ | Now selling @ 1.4¢
+2026-07-06 09:27:22 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Saudi Arabia join the Abraham Accords |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:27:33 [polymarket-arb.yes_mm] INFO: Scan #36: 50 active positions, 2 cooling down, 15 round trips, $+1830.48 profit, $65,201.10 cash
+2026-07-06 09:27:47 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Saudi Arabia join the Abraham Accor | ask@7.0¢ (0.8%/scan)
+2026-07-06 09:27:49 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Opensea FDV above $3B one day after laun | bid@5.7¢ (0.8%/scan)
+2026-07-06 09:27:53 [polymarket-arb.yes_mm] INFO: Scan #37: 50 active positions, 2 cooling down, 15 round trips, $+1830.48 profit, $65,201.10 cash
+2026-07-06 09:28:08 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will 2 Fed rate cuts happen in 2026?     |  28571 sh buy@3.5¢ sell@3.7¢ | PROFIT \$+57.14 (6%) | #16 total
+2026-07-06 09:28:16 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Sweden Democrats (SD) win the m | bid@2.5¢ (2.0%/scan)
+2026-07-06 09:28:17 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the Iranian regime fall before 2027 | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:28:17 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Fed emergency rate cut before 2027?      | bid@6.0¢ (2.0%/scan)
+2026-07-06 09:28:18 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Charles Leclerc be the 2026 F1 Driver |  30000 sh @ 2.8¢ | Now selling @ 2.9¢
+2026-07-06 09:28:18 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: 10.0 or above earthquake before 2027?      | buy@1.6¢ sell@2.3¢ spread=0.7¢ |  30000 sh | \$ 480.00 | profit=\$210.00 (44%)
+2026-07-06 09:28:18 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:28:18 [polymarket-arb.yes_mm] INFO: Scan #38: 50 active positions, 2 cooling down, 16 round trips, $+1887.63 profit, $65,778.22 cash
+2026-07-06 09:28:36 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:28:36 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Iran nuclear test before 2027?           |  25000 sh buy@4.0¢ sell@5.0¢ | PROFIT \$+250.00 (25%) | #17 total
+2026-07-06 09:28:46 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Erling Haaland win the 2026 Ballon  | ask@5.3¢ (2.0%/scan)
+2026-07-06 09:28:48 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the US confirm that aliens exist be | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:28:48 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Iran withdraw from the NPT before 202 | buy@8.2¢ sell@9.7¢ spread=1.5¢ |  12195 sh | \$ 999.99 | profit=\$182.92 (18%)
+2026-07-06 09:28:48 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:28:48 [polymarket-arb.yes_mm] INFO: Scan #39: 50 active positions, 2 cooling down, 17 round trips, $+2137.63 profit, $66,028.23 cash
+2026-07-06 09:29:10 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Max Verstappen be the 2026 F1 Drive | 0.1¢ → 0.3¢ (+200%) | bid=2.2¢ ask=2.5¢
+2026-07-06 09:29:13 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Trump, Putin, and Zelensky meet together b |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:29:13 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Iran withdraw from the NPT before 2 | 0.8¢ → 1.3¢ (+62%) | bid=8.4¢ ask=9.7¢
+2026-07-06 09:29:13 [polymarket-arb.yes_mm] INFO: Scan #40: 50 active positions, 2 cooling down, 17 round trips, $+2137.63 profit, $66,028.23 cash
+2026-07-06 09:29:17 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 305 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:29:18 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Brian Shortsleeve win the 2026 Mass |  30000 sh buy@0.3¢ sell@3.2¢ | PROFIT \$+870.00 (967%) | #18 total
+2026-07-06 09:29:35 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.5¢ (+150%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:29:38 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will 2 Fed rate cuts happen in 2026?       | buy@3.4¢ sell@3.7¢ spread=0.3¢ |  29411 sh | \$ 999.97 | profit=\$88.23 (9%)
+2026-07-06 09:29:38 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:29:38 [polymarket-arb.yes_mm] INFO: Scan #41: 50 active positions, 2 cooling down, 18 round trips, $+3007.63 profit, $65,988.26 cash
+2026-07-06 09:29:51 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Putin out as President of Russia by Dece |  11111 sh buy@9.0¢ sell@10.0¢ | PROFIT \$+111.11 (11%) | #19 total
+2026-07-06 09:29:51 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Donald Trump win the Nobel Peace Priz |  20000 sh @ 5.0¢ | Now selling @ 6.0¢
+2026-07-06 09:29:54 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Iran nuclear test before 2027?             | buy@4.0¢ sell@5.0¢ spread=1.0¢ |  25000 sh | \$1000.00 | profit=\$250.00 (25%)
+2026-07-06 09:29:54 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:29:54 [polymarket-arb.yes_mm] INFO: Scan #42: 50 active positions, 2 cooling down, 19 round trips, $+3118.74 profit, $66,099.36 cash
+2026-07-06 09:30:00 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Edna DeVries advance from the 2026  | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:30:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:30:02 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Bitcoin all time high by December 31, 20 | bid@5.0¢ (0.8%/scan)
+2026-07-06 09:30:08 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Trump meet with iShowSpeed in 2026? | bid@9.3¢ (0.8%/scan)
+2026-07-06 09:30:26 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:30:28 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump, Putin, and Zelensky meet together | ask@7.0¢ (2.0%/scan)
+2026-07-06 09:30:28 [polymarket-arb.yes_mm] INFO: Scan #43: 50 active positions, 2 cooling down, 19 round trips, $+3118.74 profit, $66,099.36 cash
+2026-07-06 09:30:32 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Saudi Arabia join the Abraham Accor | ask@7.0¢ (0.8%/scan)
+2026-07-06 09:30:43 [polymarket-arb.yes_mm] INFO: Scan #44: 50 active positions, 2 cooling down, 19 round trips, $+3118.74 profit, $66,099.36 cash
+2026-07-06 09:30:46 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:30:47 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Lamine Yamal win the 2026 Ballon d' | ask@8.0¢ (2.0%/scan)
+2026-07-06 09:30:48 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will David Lisnard win the 2027 French p |  30000 sh buy@1.5¢ sell@1.6¢ | PROFIT \$+30.00 (7%) | #20 total
+2026-07-06 09:30:53 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Brian Shortsleeve win the 2026 Massac | buy@0.3¢ sell@3.2¢ spread=2.9¢ |  30000 sh | \$  90.00 | profit=\$870.00 (967%)
+2026-07-06 09:30:53 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:30:53 [polymarket-arb.yes_mm] INFO: Scan #45: 50 active positions, 2 cooling down, 20 round trips, $+3148.74 profit, $66,489.36 cash
+2026-07-06 09:31:07 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Trump out as President before 2027?      |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #21 total
+2026-07-06 09:31:11 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Erling Haaland win the 2026 Ballon  | ask@5.3¢ (2.0%/scan)
+2026-07-06 09:31:12 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Jean-Luc Mélenchon win the 2027 Fre | bid@9.0¢ (2.0%/scan)
+2026-07-06 09:31:13 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will 2 Fed rate cuts happen in 2026?     | bid@3.4¢ (2.0%/scan)
+2026-07-06 09:31:14 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Putin out as President of Russia by Decemb | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | \$ 999.99 | profit=\$111.11 (11%)
+2026-07-06 09:31:14 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:31:14 [polymarket-arb.yes_mm] INFO: Scan #46: 50 active positions, 2 cooling down, 21 round trips, $+3315.40 profit, $66,655.99 cash
+2026-07-06 09:31:36 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 304 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:31:36 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Petr Yan fight Alexander Volkanovsk | bid@0.4¢ (0.8%/scan)
+2026-07-06 09:31:37 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bitcoin reach $120,000 by December  | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:31:44 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Lamine Yamal win the 2026 Ballon d' |  14285 sh buy@7.0¢ sell@8.0¢ | PROFIT \$+142.85 (14%) | #22 total
+2026-07-06 09:31:46 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Ro Khanna win the 2028 Democratic p | bid@1.6¢ (0.8%/scan)
+2026-07-06 09:31:46 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Rahm Emanuel win the 2028 Democratic  |  30000 sh @ 1.6¢ | Now selling @ 1.7¢
+2026-07-06 09:31:48 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the Iranian regime fall before 2027?  |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:32:00 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will David Lisnard win the 2027 French pre | buy@1.5¢ sell@1.6¢ spread=0.1¢ |  30000 sh | \$ 450.00 | profit=\$30.00 (7%)
+2026-07-06 09:32:00 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:32:00 [polymarket-arb.yes_mm] INFO: Scan #47: 50 active positions, 2 cooling down, 22 round trips, $+3458.25 profit, $67,348.79 cash
+2026-07-06 09:32:17 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Zelenskyy and Putin meet next in Qa | ask@2.2¢ (0.8%/scan)
+2026-07-06 09:32:27 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Iran withdraw from the NPT before 202 |  12195 sh @ 8.2¢ | Now selling @ 9.7¢
+2026-07-06 09:32:28 [polymarket-arb.yes_mm] INFO: Scan #48: 50 active positions, 2 cooling down, 22 round trips, $+3458.25 profit, $67,348.79 cash
+2026-07-06 09:32:32 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Michelle Bolsonaro win the 2026 Brazi |  30000 sh @ 1.4¢ | Now selling @ 1.8¢
+2026-07-06 09:32:39 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Rahm Emanuel win the 2028 Democrati |  30000 sh buy@1.6¢ sell@1.7¢ | PROFIT \$+30.00 (6%) | #23 total
+2026-07-06 09:32:42 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Charles Leclerc be the 2026 F1 Driv | ask@2.9¢ (5.0%/scan)
+2026-07-06 09:32:44 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Trump out as President before 2027?        | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:32:44 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:32:44 [polymarket-arb.yes_mm] INFO: Scan #49: 50 active positions, 2 cooling down, 23 round trips, $+3488.25 profit, $66,858.83 cash
+2026-07-06 09:33:05 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Belgium win the 2026 FIFA World Cup |  30000 sh buy@1.3¢ sell@1.4¢ | PROFIT \$+30.00 (8%) | #24 total
+2026-07-06 09:33:05 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:33:07 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will 3 Fed rate cuts happen in 2026?       |  30000 sh @ 1.8¢ | Now selling @ 2.0¢
+2026-07-06 09:33:18 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Lamine Yamal win the 2026 Ballon d'Or | buy@7.0¢ sell@8.0¢ spread=1.0¢ |  14285 sh | \$ 999.95 | profit=\$142.85 (14%)
+2026-07-06 09:33:18 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:33:18 [polymarket-arb.yes_mm] INFO: Scan #50: 50 active positions, 2 cooling down, 24 round trips, $+3518.25 profit, $66,278.88 cash
+2026-07-06 09:33:32 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 305 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:33:42 [polymarket-arb.yes_mm] INFO:   WAIT BUY: China x India military clash by December | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:33:44 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Trump, Putin, and Zelensky meet together |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #25 total
+2026-07-06 09:33:44 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Charles Leclerc be the 2026 F1 Driv | ask@2.9¢ (5.0%/scan)
+2026-07-06 09:33:45 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Iran withdraw from the NPT before 2 |  12195 sh buy@8.2¢ sell@9.7¢ | PROFIT \$+182.92 (18%) | #26 total
+2026-07-06 09:33:56 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Trump out as President before 2027?      | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:33:56 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Rahm Emanuel win the 2028 Democratic  | buy@1.6¢ sell@1.7¢ spread=0.1¢ |  30000 sh | \$ 480.00 | profit=\$30.00 (6%)
+2026-07-06 09:33:56 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Belgium win the 2026 FIFA World Cup?  | buy@1.3¢ sell@1.4¢ spread=0.1¢ |  30000 sh | \$ 390.00 | profit=\$30.00 (8%)
+2026-07-06 09:33:56 [polymarket-arb.yes_mm] INFO: Re-entered 2 markets after cooldown
+2026-07-06 09:33:56 [polymarket-arb.yes_mm] INFO: Scan #51: 50 active positions, 2 cooling down, 26 round trips, $+3867.83 profit, $67,758.42 cash
+2026-07-06 09:34:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:34:04 [polymarket-arb.yes_mm] INFO:   BUY FILLED: China x India military clash by December 3 |  14285 sh @ 7.0¢ | Now selling @ 9.0¢
+2026-07-06 09:34:05 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Zelenskyy and Putin meet next in Turk |  30000 sh @ 1.2¢ | Now selling @ 1.6¢
+2026-07-06 09:34:08 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will 2 Fed rate cuts happen in 2026?     | bid@3.4¢ (2.0%/scan)
+2026-07-06 09:34:09 [polymarket-arb.yes_mm] INFO: Scan #52: 50 active positions, 2 cooling down, 26 round trips, $+3867.83 profit, $67,758.42 cash
+2026-07-06 09:34:25 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:34:25 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Donald Trump win the Nobel Peace Pr |  20000 sh buy@5.0¢ sell@6.0¢ | PROFIT \$+200.00 (20%) | #27 total
+2026-07-06 09:34:34 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Trump, Putin, and Zelensky meet together b | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:34:34 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:34:34 [polymarket-arb.yes_mm] INFO: Scan #53: 50 active positions, 2 cooling down, 27 round trips, $+4067.83 profit, $67,958.46 cash
+2026-07-06 09:34:51 [polymarket-arb.yes_mm] INFO:   BUY FILLED: 10.0 or above earthquake before 2027?      |  30000 sh @ 1.6¢ | Now selling @ 2.3¢
+2026-07-06 09:34:53 [polymarket-arb.yes_mm] INFO: Scan #54: 50 active positions, 2 cooling down, 27 round trips, $+4067.83 profit, $67,958.46 cash
+2026-07-06 09:35:04 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will François Hollande win the 2027 Fren | bid@2.8¢ (2.0%/scan)
+2026-07-06 09:35:09 [polymarket-arb.yes_mm] INFO: Scan #55: 50 active positions, 2 cooling down, 27 round trips, $+4067.83 profit, $67,958.46 cash
+2026-07-06 09:35:15 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bitcoin reach $120,000 by December  | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:35:16 [polymarket-arb.yes_mm] INFO:   WAIT SELL: GTA 6 launch postponed again?            | ask@10.0¢ (2.0%/scan)
+2026-07-06 09:35:17 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Zelenskyy and Putin meet next in Qa | ask@2.2¢ (0.8%/scan)
+2026-07-06 09:35:21 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:35:29 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Putin out as President of Russia by Decemb |  11111 sh @ 9.0¢ | Now selling @ 10.0¢
+2026-07-06 09:35:40 [polymarket-arb.yes_mm] INFO: Scan #56: 50 active positions, 2 cooling down, 27 round trips, $+4067.83 profit, $67,958.46 cash
+2026-07-06 09:35:52 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 306 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:36:06 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will François Hollande win the 2027 French |  30000 sh @ 2.8¢ | Now selling @ 2.9¢
+2026-07-06 09:36:13 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Fed emergency rate cut before 2027?      | 2.0¢ → 3.0¢ (+50%) | bid=6.0¢ ask=9.0¢
+2026-07-06 09:36:13 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Colombia win the 2026 FIFA World Cu |  30000 sh buy@3.0¢ sell@3.1¢ | PROFIT \$+30.00 (3%) | #28 total
+2026-07-06 09:36:16 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Trump, Putin, and Zelensky meet together | bid@6.0¢ (2.0%/scan)
+2026-07-06 09:36:16 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Iran withdraw from the NPT before 202 | buy@8.5¢ sell@9.5¢ spread=1.0¢ |  11764 sh | \$ 999.94 | profit=\$117.64 (12%)
+2026-07-06 09:36:16 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:36:16 [polymarket-arb.yes_mm] INFO: Scan #57: 50 active positions, 2 cooling down, 28 round trips, $+4097.83 profit, $67,888.52 cash
+2026-07-06 09:36:40 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Marine Le Pen win the 2027 French p | bid@8.0¢ (2.0%/scan)
+2026-07-06 09:36:43 [polymarket-arb.yes_mm] INFO: Scan #58: 50 active positions, 2 cooling down, 28 round trips, $+4097.83 profit, $67,888.52 cash
+2026-07-06 09:36:48 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Dwayne 'The Rock' Johnson win the 202 |  30000 sh @ 1.1¢ | Now selling @ 1.2¢
+2026-07-06 09:36:53 [polymarket-arb.yes_mm] INFO: Scan #59: 50 active positions, 2 cooling down, 28 round trips, $+4097.83 profit, $67,888.52 cash
+2026-07-06 09:37:00 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Petr Yan fight Alexander Volkanovsk | bid@0.4¢ (0.8%/scan)
+2026-07-06 09:37:00 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Edna DeVries advance from the 2026  | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:37:05 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Andy Beshear win the 2028 Democrati | bid@2.2¢ (2.0%/scan)
+2026-07-06 09:37:09 [polymarket-arb.yes_mm] INFO: Scan #60: 50 active positions, 2 cooling down, 28 round trips, $+4097.83 profit, $67,888.52 cash
+2026-07-06 09:37:19 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Max Verstappen be the 2026 F1 Drive | bid@2.2¢ (5.0%/scan)
+2026-07-06 09:37:20 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Erling Haaland win the 2026 Ballon  |  20833 sh buy@4.8¢ sell@5.3¢ | PROFIT \$+104.16 (10%) | #29 total
+2026-07-06 09:37:27 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Putin out as President of Russia by Dece |  11111 sh buy@9.0¢ sell@10.0¢ | PROFIT \$+111.11 (11%) | #30 total
+2026-07-06 09:37:28 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Donald Trump win the Nobel Peace Priz | buy@5.0¢ sell@6.0¢ spread=1.0¢ |  20000 sh | \$1000.00 | profit=\$200.00 (20%)
+2026-07-06 09:37:28 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Colombia win the 2026 FIFA World Cup? | buy@3.0¢ sell@3.1¢ spread=0.1¢ |  30000 sh | \$ 900.00 | profit=\$30.00 (3%)
+2026-07-06 09:37:28 [polymarket-arb.yes_mm] INFO: Re-entered 2 markets after cooldown
+2026-07-06 09:37:28 [polymarket-arb.yes_mm] INFO: Scan #61: 50 active positions, 2 cooling down, 30 round trips, $+4313.11 profit, $68,203.76 cash
+2026-07-06 09:37:30 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Petr Yan fight Alexander Volkanovski  |  30000 sh @ 0.4¢ | Now selling @ 2.3¢
+2026-07-06 09:37:33 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $3B one day after launc | bid@3.7¢ (0.8%/scan)
+2026-07-06 09:37:35 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:37:35 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Africa (CAF) win the 2026 FIFA Worl |  30000 sh buy@2.9¢ sell@3.2¢ | PROFIT \$+90.00 (10%) | #31 total
+2026-07-06 09:37:37 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will David Lisnard win the 2027 French p | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:38:56 [polymarket-arb.yes_mm] INFO:   OPEN: Israel and Syria normalize relations by De | buy@7.0¢ sell@9.0¢ spread=2.0¢ |  14285 sh | $ 999.95 | profit=$285.70 (29%) | vol=$832 score=235.7
+2026-07-06 09:38:56 [polymarket-arb.yes_mm] INFO: Opened 1 new positions (50/50)
+2026-07-06 09:38:56 [polymarket-arb.yes_mm] INFO: Scan #62: 50 active positions, 3 cooling down, 31 round trips, $+4403.11 profit, $68,163.81 cash
+2026-07-06 09:39:02 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 306 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:39:03 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Petr Yan fight Alexander Volkanovsk | ask@2.3¢ (0.8%/scan)
+2026-07-06 09:39:04 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Barbara Kirkmeyer win the 2026 Colo | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:39:06 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will François Hollande win the 2027 Fren | ask@2.9¢ (2.0%/scan)
+2026-07-06 09:39:13 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Fed emergency rate cut before 2027?      | bid@6.0¢ (2.0%/scan)
+2026-07-06 09:39:16 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Iran withdraw from the NPT before 2 | 0.9¢ → 1.5¢ (+67%) | bid=8.2¢ ask=9.7¢
+2026-07-06 09:39:16 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Donald Trump win the Nobel Peace Pr | bid@5.0¢ (5.0%/scan)
+2026-07-06 09:39:16 [polymarket-arb.yes_mm] INFO: Scan #63: 50 active positions, 3 cooling down, 31 round trips, $+4403.11 profit, $68,163.81 cash
+2026-07-06 09:39:37 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Saudi Arabia join the Abraham Accor | ask@7.0¢ (0.8%/scan)
+2026-07-06 09:39:46 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the US confirm that aliens exist befo |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:39:53 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Rahm Emanuel win the 2028 Democratic  |  30000 sh @ 1.6¢ | Now selling @ 1.7¢
+2026-07-06 09:39:59 [polymarket-arb.yes_mm] INFO: Scan #64: 50 active positions, 3 cooling down, 31 round trips, $+4403.11 profit, $68,163.81 cash
+2026-07-06 09:40:14 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Bitcoin reach $120,000 by December 31 |  25000 sh @ 4.0¢ | Now selling @ 5.0¢
+2026-07-06 09:40:15 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:40:16 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Michelle Bolsonaro win the 2026 Bra | ask@1.8¢ (2.0%/scan)
+2026-07-06 09:40:18 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Ro Khanna win the 2028 Democratic p | bid@1.6¢ (0.8%/scan)
+2026-07-06 09:40:24 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:40:30 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will the US confirm that aliens exist be |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #32 total
+2026-07-06 09:40:37 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Israel and Syria normalize relations by  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:40:37 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Erling Haaland win the 2026 Ballon d' | buy@4.8¢ sell@5.7¢ spread=0.9¢ |  20833 sh | \$ 999.98 | profit=\$187.50 (19%)
+2026-07-06 09:40:37 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:40:37 [polymarket-arb.yes_mm] INFO: Scan #65: 50 active positions, 3 cooling down, 32 round trips, $+4569.77 profit, $68,330.45 cash
+2026-07-06 09:40:45 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $7B one day after launc | bid@1.0¢ (0.8%/scan)
+2026-07-06 09:40:52 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Zelenskyy and Putin meet next in Qa |  30000 sh buy@1.3¢ sell@2.2¢ | PROFIT \$+270.00 (69%) | #33 total
+2026-07-06 09:41:10 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Trump out as President before 2027?      | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:41:12 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Putin out as President of Russia by Decemb | buy@9.0¢ sell@10.0¢ spread=1.0¢ |  11111 sh | \$ 999.99 | profit=\$111.11 (11%)
+2026-07-06 09:41:12 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:41:12 [polymarket-arb.yes_mm] INFO: Scan #66: 50 active positions, 3 cooling down, 33 round trips, $+4839.77 profit, $67,990.46 cash
+2026-07-06 09:41:27 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 305 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:41:30 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:41:32 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Bitcoin reach $200,000 by December  |  30000 sh buy@1.5¢ sell@1.6¢ | PROFIT \$+30.00 (7%) | #34 total
+2026-07-06 09:41:36 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will 2 Fed rate cuts happen in 2026?       |  29411 sh @ 3.4¢ | Now selling @ 3.7¢
+2026-07-06 09:41:37 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Trump, Putin, and Zelensky meet together b |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:41:38 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Erling Haaland win the 2026 Ballon  | 0.6¢ → 1.0¢ (+67%) | bid=4.8¢ ask=5.8¢
+2026-07-06 09:41:38 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Africa (CAF) win the 2026 FIFA World  | buy@2.9¢ sell@3.3¢ spread=0.4¢ |  30000 sh | \$ 870.00 | profit=\$120.00 (14%)
+2026-07-06 09:41:38 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:41:38 [polymarket-arb.yes_mm] INFO: Scan #67: 50 active positions, 3 cooling down, 34 round trips, $+4869.77 profit, $67,600.46 cash
+2026-07-06 09:41:52 [polymarket-arb.yes_mm] INFO:   WAIT BUY: StandX FDV above $3B one day after launc | bid@3.7¢ (0.8%/scan)
+2026-07-06 09:41:57 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Donald Trump win the Nobel Peace Priz |  20000 sh @ 5.0¢ | Now selling @ 6.0¢
+2026-07-06 09:41:58 [polymarket-arb.yes_mm] INFO: Scan #68: 50 active positions, 3 cooling down, 34 round trips, $+4869.77 profit, $67,600.46 cash
+2026-07-06 09:42:00 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Petr Yan fight Alexander Volkanovsk | ask@2.3¢ (0.8%/scan)
+2026-07-06 09:42:01 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Barbara Kirkmeyer win the 2026 Colo | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:42:04 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:42:05 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Marine Le Pen win the 2027 French p | bid@8.0¢ (2.0%/scan)
+2026-07-06 09:42:07 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Donald Trump win the Nobel Peace Pr | ask@6.0¢ (5.0%/scan)
+2026-07-06 09:42:08 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Colombia win the 2026 FIFA World Cup? |  30000 sh @ 3.0¢ | Now selling @ 3.1¢
+2026-07-06 09:42:08 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Erling Haaland win the 2026 Ballon  | 0.6¢ → 1.0¢ (+67%) | bid=4.8¢ ask=5.8¢
+2026-07-06 09:42:08 [polymarket-arb.yes_mm] INFO: Scan #69: 50 active positions, 3 cooling down, 34 round trips, $+4869.77 profit, $67,600.46 cash
+2026-07-06 09:42:15 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Petr Yan fight Alexander Volkanovsk | ask@2.3¢ (0.8%/scan)
+2026-07-06 09:42:33 [polymarket-arb.yes_mm] INFO: Scan #70: 50 active positions, 3 cooling down, 34 round trips, $+4869.77 profit, $67,600.46 cash
+2026-07-06 09:42:50 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Bitcoin reach $120,000 by December  | ask@5.0¢ (2.0%/scan)
+2026-07-06 09:42:51 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:42:58 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Dwayne 'The Rock' Johnson win the 2 | ask@1.2¢ (2.0%/scan)
+2026-07-06 09:42:59 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:42:59 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.2¢ → 0.4¢ (+100%) | bid=1.2¢ ask=1.6¢
+2026-07-06 09:43:07 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Donald Trump win the Nobel Peace Pr |  20000 sh buy@5.0¢ sell@6.0¢ | PROFIT \$+200.00 (20%) | #35 total
+2026-07-06 09:43:14 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will the US confirm that aliens exist befo | buy@6.0¢ sell@7.0¢ spread=1.0¢ |  16666 sh | \$ 999.96 | profit=\$166.66 (17%)
+2026-07-06 09:43:14 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:43:14 [polymarket-arb.yes_mm] INFO: Scan #71: 50 active positions, 3 cooling down, 35 round trips, $+5069.77 profit, $67,800.50 cash
+2026-07-06 09:43:36 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 306 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:43:42 [polymarket-arb.yes_mm] INFO:   WAIT SELL: 10.0 or above earthquake before 2027?    | ask@2.3¢ (5.0%/scan)
+2026-07-06 09:43:45 [polymarket-arb.yes_mm] INFO: Scan #72: 50 active positions, 3 cooling down, 35 round trips, $+5069.77 profit, $67,800.50 cash
+2026-07-06 09:44:02 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Trump meet with iShowSpeed in 2026?   |  10752 sh @ 9.3¢ | Now selling @ 10.5¢
+2026-07-06 09:44:03 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bernie endorse Antonio Delgado for  | bid@3.3¢ (0.8%/scan)
+2026-07-06 09:44:05 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:44:05 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Charles Leclerc be the 2026 F1 Driv |  30000 sh buy@2.8¢ sell@2.9¢ | PROFIT \$+30.00 (4%) | #36 total
+2026-07-06 09:44:06 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Brian Shortsleeve win the 2026 Mass | bid@0.3¢ (2.0%/scan)
+2026-07-06 09:44:09 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Zelenskyy and Putin meet next in Qata | buy@1.3¢ sell@2.2¢ spread=0.9¢ |  30000 sh | \$ 390.00 | profit=\$270.00 (69%)
+2026-07-06 09:44:09 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:44:09 [polymarket-arb.yes_mm] INFO: Scan #73: 50 active positions, 3 cooling down, 36 round trips, $+5099.77 profit, $68,280.50 cash
+2026-07-06 09:44:27 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will 3 Fed rate cuts happen in 2026?     | ask@2.0¢ (2.0%/scan)
+2026-07-06 09:44:31 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Iran nuclear test before 2027?           | bid@4.0¢ (2.0%/scan)
+2026-07-06 09:44:33 [polymarket-arb.yes_mm] INFO: Scan #74: 50 active positions, 3 cooling down, 36 round trips, $+5099.77 profit, $68,280.50 cash
+2026-07-06 09:44:45 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will the Republican Party hold between 1 |  12500 sh buy@8.0¢ sell@10.0¢ | PROFIT \$+250.00 (25%) | #37 total
+2026-07-06 09:44:54 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:44:54 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the Sweden Democrats (SD) win the mos |  30000 sh @ 2.5¢ | Now selling @ 2.9¢
+2026-07-06 09:44:55 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Marine Le Pen win the 2027 French p | bid@8.0¢ (2.0%/scan)
+2026-07-06 09:44:57 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump, Putin, and Zelensky meet together | ask@7.0¢ (2.0%/scan)
+2026-07-06 09:44:58 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Erling Haaland win the 2026 Ballon  | bid@4.8¢ (2.0%/scan)
+2026-07-06 09:45:04 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Bitcoin reach $200,000 by December 31 | buy@1.5¢ sell@1.6¢ spread=0.1¢ |  30000 sh | \$ 450.00 | profit=\$30.00 (7%)
+2026-07-06 09:45:04 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:45:04 [polymarket-arb.yes_mm] INFO: Scan #75: 50 active positions, 3 cooling down, 37 round trips, $+5349.77 profit, $69,080.50 cash
+2026-07-06 09:45:15 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Bitcoin reach $120,000 by December  | ask@5.0¢ (2.0%/scan)
+2026-07-06 09:45:17 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Dwayne 'The Rock' Johnson win the 2 | ask@1.2¢ (2.0%/scan)
+2026-07-06 09:45:18 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Max Verstappen be the 2026 F1 Drivers |  30000 sh @ 2.2¢ | Now selling @ 2.3¢
+2026-07-06 09:45:25 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Fed emergency rate cut before 2027?      | bid@6.0¢ (2.0%/scan)
+2026-07-06 09:45:27 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Trump, Putin, and Zelensky meet together | ask@7.0¢ (2.0%/scan)
+2026-07-06 09:45:27 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Erling Haaland win the 2026 Ballon d' |  20833 sh @ 4.8¢ | Now selling @ 5.7¢
+2026-07-06 09:45:28 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Africa (CAF) win the 2026 FIFA Worl | bid@2.9¢ (5.0%/scan)
+2026-07-06 09:45:28 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will the US confirm that aliens exist be | bid@6.0¢ (5.0%/scan)
+2026-07-06 09:45:28 [polymarket-arb.yes_mm] INFO: Scan #76: 50 active positions, 3 cooling down, 37 round trips, $+5349.77 profit, $69,080.50 cash
+2026-07-06 09:45:32 [polymarket-arb.yes_mm] INFO: Fetched 2100 markets, 305 qualify (YES 1-10¢, vol>$10)
+2026-07-06 09:45:35 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bernie endorse Antonio Delgado for  | bid@3.3¢ (0.8%/scan)
+2026-07-06 09:45:36 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Greta Thunberg win the Nobel Peace  | bid@1.5¢ (2.0%/scan)
+2026-07-06 09:45:40 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Iran withdraw from the NPT before 202 |  11764 sh @ 8.5¢ | Now selling @ 9.5¢
+2026-07-06 09:45:40 [polymarket-arb.yes_mm] INFO:   📈 SPREAD NARROWED: Will Erling Haaland win the 2026 Ballon  | 1.0¢ → 0.5¢ (-50%) | bid=4.8¢ ask=5.3¢
+2026-07-06 09:45:41 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Africa (CAF) win the 2026 FIFA World  |  30000 sh @ 2.9¢ | Now selling @ 3.3¢
+2026-07-06 09:45:41 [polymarket-arb.yes_mm] INFO: Scan #77: 50 active positions, 3 cooling down, 37 round trips, $+5349.77 profit, $69,080.50 cash
+2026-07-06 09:45:57 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will 3 Fed rate cuts happen in 2026?     | ask@2.0¢ (2.0%/scan)
+2026-07-06 09:45:58 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will Andy Beshear win the 2028 Democratic  |  30000 sh @ 2.2¢ | Now selling @ 2.3¢
+2026-07-06 09:45:59 [polymarket-arb.yes_mm] INFO:   WAIT SELL: China x India military clash by December | ask@9.0¢ (0.8%/scan)
+2026-07-06 09:46:03 [polymarket-arb.yes_mm] INFO: Scan #78: 50 active positions, 3 cooling down, 37 round trips, $+5349.77 profit, $69,080.50 cash
+2026-07-06 09:46:15 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Petr Yan fight Alexander Volkanovsk | ask@2.3¢ (0.8%/scan)
+2026-07-06 09:46:15 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Yulia Navalnaya win the Nobel Peace | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:46:16 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Ink FDV above $2B one day after launch?  | bid@7.0¢ (0.8%/scan)
+2026-07-06 09:46:16 [polymarket-arb.yes_mm] INFO:   WAIT SELL: GTA 6 launch postponed again?            | ask@10.0¢ (2.0%/scan)
+2026-07-06 09:46:19 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Vitinha win the 2026 Ballon d'Or?   | bid@1.3¢ (2.0%/scan)
+2026-07-06 09:46:19 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:46:20 [polymarket-arb.yes_mm] INFO:   WAIT SELL: 10.0 or above earthquake before 2027?    | ask@2.3¢ (5.0%/scan)
+2026-07-06 09:46:21 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Belgium win the 2026 FIFA World Cup | bid@1.3¢ (5.0%/scan)
+2026-07-06 09:46:22 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Erling Haaland win the 2026 Ballon  | 0.4¢ → 1.0¢ (+150%) | bid=4.8¢ ask=5.8¢
+2026-07-06 09:46:23 [polymarket-arb.yes_mm] INFO: Scan #79: 50 active positions, 3 cooling down, 37 round trips, $+5349.77 profit, $69,080.50 cash
+2026-07-06 09:46:30 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Edna DeVries advance from the 2026  | bid@0.3¢ (0.8%/scan)
+2026-07-06 09:46:31 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: GTA 6 launch postponed again?            |  11111 sh buy@9.0¢ sell@10.0¢ | PROFIT \$+111.11 (11%) | #38 total
+2026-07-06 09:46:33 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Bernie endorse Antonio Delgado for  | bid@3.3¢ (0.8%/scan)
+2026-07-06 09:46:37 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will Colombia win the 2026 FIFA World Cu |  30000 sh buy@3.0¢ sell@3.1¢ | PROFIT \$+30.00 (3%) | #39 total
+2026-07-06 09:46:38 [polymarket-arb.yes_mm] INFO:   📈 SPREAD NARROWED: Will Erling Haaland win the 2026 Ballon  | 1.0¢ → 0.4¢ (-60%) | bid=4.8¢ ask=5.2¢
+2026-07-06 09:46:39 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Donald Trump win the Nobel Peace Priz | buy@5.0¢ sell@6.0¢ spread=1.0¢ |  20000 sh | \$1000.00 | profit=\$200.00 (20%)
+2026-07-06 09:46:39 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will Charles Leclerc be the 2026 F1 Driver | buy@2.8¢ sell@2.9¢ spread=0.1¢ |  30000 sh | \$ 840.00 | profit=\$30.00 (4%)
+2026-07-06 09:46:39 [polymarket-arb.yes_mm] INFO: Re-entered 2 markets after cooldown
+2026-07-06 09:46:39 [polymarket-arb.yes_mm] INFO: Scan #80: 50 active positions, 3 cooling down, 39 round trips, $+5490.88 profit, $69,281.60 cash
+2026-07-06 09:46:48 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Andy Beshear win the 2028 Democrati | ask@2.3¢ (2.0%/scan)
+2026-07-06 09:46:49 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Zelenskyy and Putin meet next in Tu | 0.3¢ → 0.5¢ (+67%) | bid=1.2¢ ask=1.7¢
+2026-07-06 09:46:52 [polymarket-arb.yes_mm] INFO:   📈 SPREAD WIDENED: Will Erling Haaland win the 2026 Ballon  | 0.4¢ → 0.8¢ (+100%) | bid=4.8¢ ask=5.6¢
+2026-07-06 09:46:53 [polymarket-arb.yes_mm] INFO:   WAIT BUY: Will Charles Leclerc be the 2026 F1 Driv | bid@2.8¢ (5.0%/scan)
+2026-07-06 09:46:53 [polymarket-arb.yes_mm] INFO: Scan #81: 50 active positions, 3 cooling down, 39 round trips, $+5490.88 profit, $69,281.60 cash
+2026-07-06 09:47:00 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will Petr Yan fight Alexander Volkanovsk | ask@2.3¢ (0.8%/scan)
+2026-07-06 09:47:02 [polymarket-arb.yes_mm] INFO:   WAIT SELL: Will 3 Fed rate cuts happen in 2026?     | ask@2.0¢ (2.0%/scan)
+2026-07-06 09:47:04 [polymarket-arb.yes_mm] INFO:   ✅ ROUND TRIP: Will the Iranian regime fall before 2027 |  16666 sh buy@6.0¢ sell@7.0¢ | PROFIT \$+166.66 (17%) | #40 total
+2026-07-06 09:47:08 [polymarket-arb.yes_mm] INFO:   BUY FILLED: Will the US confirm that aliens exist befo |  16666 sh @ 6.0¢ | Now selling @ 7.0¢
+2026-07-06 09:47:08 [polymarket-arb.yes_mm] INFO:   🔄 RE-ENTER: Will the Republican Party hold between 195 | buy@8.0¢ sell@10.0¢ spread=2.0¢ |  12500 sh | \$1000.00 | profit=\$250.00 (25%)
+2026-07-06 09:47:08 [polymarket-arb.yes_mm] INFO: Re-entered 1 markets after cooldown
+2026-07-06 09:47:08 [polymarket-arb.yes_mm] INFO: Scan #82: 50 active positions, 3 cooling down, 40 round trips, $+5657.54 profit, $69,448.22 cash

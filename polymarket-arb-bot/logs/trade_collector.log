@@ -1,0 +1,176 @@
+
+============================================================
+REAL TRADE DATA COLLECTOR
+Duration: 60 minutes
+============================================================
+
+2026-07-05 23:01:22,838 [polymarket-arb.hybrid_scanner] INFO: Phase 1: Discovering markets via REST API...
+2026-07-05 23:01:25,739 [polymarket-arb.scanner] INFO: Fetched 1000 active events from Gamma
+2026-07-05 23:01:26,018 [polymarket-arb.scanner] INFO: Scan complete: {'events_total': 999, 'events_with_arb_potential': 914, 'markets_total': 5487, 'markets_with_books': 0, 'scan_time_seconds': 3.18}
+2026-07-05 23:01:26,092 [polymarket-arb.hybrid_scanner] INFO: Discovered 5487 markets, 10974 tokens
+2026-07-05 23:01:26,092 [polymarket-arb.hybrid_scanner] INFO: Phase 2: Selecting markets for WebSocket subscription...
+2026-07-05 23:01:26,128 [polymarket-arb.hybrid_scanner] INFO: Category distribution: sports=734, other=420, crypto=417, politics=347, geopolitics=288, tech=178, economy=98, entertainment=34, weather=27, science=3
+2026-07-05 23:01:26,129 [polymarket-arb.hybrid_scanner] INFO: Subscribing to 200 tokens (100 markets) via WebSocket
+2026-07-05 23:01:26,129 [polymarket-arb.ws] INFO: Registered 200 assets for subscription
+2026-07-05 23:01:26,408 [polymarket-arb.ws] INFO: WS connected!
+2026-07-05 23:01:26,409 [polymarket-arb.ws] INFO: Subscribed to 200 assets
+2026-07-05 23:01:26,630 [polymarket-arb.hybrid_scanner] INFO: Waiting 20s for WebSocket books to populate...
+2026-07-05 23:01:27,636 [polymarket-arb.hybrid_scanner] INFO: Received 200 WebSocket books with data
+Connected to 200 markets
+
+Collecting trades for 60 minutes...
+Reports every 60 seconds
+
+
+--- 23:02:27 | 1min elapsed ---
+Total trades observed: 151
+Markets with trades: 15 / 200
+Trade rate: 150.8 trades/min = 9045/hour
+
+Top 10 markets by trade count:
+    84 trades | Mexico vs. England: Team to Advance           | spread=1.0% | 83.9/min
+    48 trades | Mexico vs. England: Team to Advance           | spread=25.0% | 47.9/min
+     3 trades | Will Morocco win the 2026 FIFA World Cup?     | spread=0.1% | 3.0/min
+     3 trades | Will England win the 2026 FIFA World Cup?     | spread=3.7% | 3.0/min
+     2 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 2.0/min
+     2 trades | Will Gavin Newsom win the 2028 US Presidentia | spread=0.8% | 2.0/min
+     1 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 1.0/min
+     1 trades | Will Gavin Newsom win the 2028 US Presidentia | spread=0.1% | 1.0/min
+     1 trades | Will Belgium win the 2026 FIFA World Cup?     | spread=7.7% | 1.0/min
+     1 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.7% | 1.0/min
+
+--- 23:03:27 | 2min elapsed ---
+Total trades observed: 323
+Markets with trades: 23 / 200
+Trade rate: 161.2 trades/min = 9674/hour
+
+Top 10 markets by trade count:
+   166 trades | Mexico vs. England: Team to Advance           | spread=1.0% | 82.9/min
+   114 trades | Mexico vs. England: Team to Advance           | spread=33.3% | 56.9/min
+     6 trades | Will England win the 2026 FIFA World Cup?     | spread=4.4% | 3.0/min
+     4 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 2.0/min
+     4 trades | Will Trump acquire Greenland before 2027?     | spread=0.1% | 2.0/min
+     3 trades | Will Morocco win the 2026 FIFA World Cup?     | spread=0.1% | 1.5/min
+     3 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 1.5/min
+     3 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.7% | 1.5/min
+     3 trades | Will Gavin Newsom win the 2028 US Presidentia | spread=0.8% | 1.5/min
+     2 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 1.0/min
+
+--- 23:04:27 | 3min elapsed ---
+Total trades observed: 642
+Markets with trades: 25 / 200
+Trade rate: 213.7 trades/min = 12819/hour
+
+Top 10 markets by trade count:
+   396 trades | Mexico vs. England: Team to Advance           | spread=1.0% | 131.8/min
+   174 trades | Mexico vs. England: Team to Advance           | spread=50.0% | 57.9/min
+    14 trades | Will England win the 2026 FIFA World Cup?     | spread=5.1% | 4.7/min
+     9 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 3.0/min
+     6 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.7% | 2.0/min
+     5 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 1.7/min
+     5 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 1.7/min
+     4 trades | Will Trump acquire Greenland before 2027?     | spread=0.1% | 1.3/min
+     3 trades | Will Morocco win the 2026 FIFA World Cup?     | spread=0.1% | 1.0/min
+     3 trades | Will England win the 2026 FIFA World Cup?     | spread=0.8% | 1.0/min
+
+--- 23:05:28 | 4min elapsed ---
+Total trades observed: 771
+Markets with trades: 27 / 200
+Trade rate: 192.4 trades/min = 11546/hour
+
+Top 10 markets by trade count:
+   479 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+    21 trades | Will England win the 2026 FIFA World Cup?     | spread=0.7% | 5.2/min
+     9 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 2.2/min
+     8 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.7% | 2.0/min
+     8 trades | Will England win the 2026 FIFA World Cup?     | spread=0.1% | 2.0/min
+     7 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 1.7/min
+     7 trades | Will Norway win the 2026 FIFA World Cup?      | spread=6.1% | 1.7/min
+     5 trades | Will USA win the 2026 FIFA World Cup?         | spread=2.9% | 1.2/min
+     5 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 1.2/min
+
+--- 23:06:28 | 5min elapsed ---
+Total trades observed: 957
+Markets with trades: 32 / 200
+Trade rate: 191.1 trades/min = 11466/hour
+
+Top 10 markets by trade count:
+   607 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+    31 trades | Will England win the 2026 FIFA World Cup?     | spread=0.7% | 6.2/min
+    19 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.8% | 3.8/min
+    11 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=1.2% | 2.2/min
+    11 trades | Will Norway win the 2026 FIFA World Cup?      | spread=4.1% | 2.2/min
+    10 trades | Strait of Hormuz traffic returns to normal by | spread=0.1% | 2.0/min
+     9 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 1.8/min
+     8 trades | Will England win the 2026 FIFA World Cup?     | spread=0.1% | 1.6/min
+     8 trades | Will Spain win the 2026 FIFA World Cup?       | spread=0.8% | 1.6/min
+
+--- 23:07:28 | 6min elapsed ---
+Total trades observed: 1110
+Markets with trades: 34 / 200
+Trade rate: 184.7 trades/min = 11082/hour
+
+Top 10 markets by trade count:
+   703 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+    44 trades | Will England win the 2026 FIFA World Cup?     | spread=1.4% | 7.3/min
+    27 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.8% | 4.5/min
+    21 trades | Will Norway win the 2026 FIFA World Cup?      | spread=2.0% | 3.5/min
+    16 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 2.7/min
+    12 trades | Will USA win the 2026 FIFA World Cup?         | spread=2.9% | 2.0/min
+    11 trades | Will China invade Taiwan by end of 2026?      | spread=0.1% | 1.8/min
+    11 trades | Will England win the 2026 FIFA World Cup?     | spread=0.2% | 1.8/min
+    11 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 1.8/min
+
+--- 23:08:28 | 7min elapsed ---
+Total trades observed: 1266
+Markets with trades: 35 / 200
+Trade rate: 180.6 trades/min = 10833/hour
+
+Top 10 markets by trade count:
+   783 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+    64 trades | Will England win the 2026 FIFA World Cup?     | spread=0.7% | 9.1/min
+    42 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.8% | 6.0/min
+    31 trades | Will Norway win the 2026 FIFA World Cup?      | spread=2.0% | 4.4/min
+    21 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 3.0/min
+    16 trades | Will USA win the 2026 FIFA World Cup?         | spread=2.9% | 2.3/min
+    14 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 2.0/min
+    13 trades | Will England win the 2026 FIFA World Cup?     | spread=0.1% | 1.9/min
+    13 trades | Will Spain win the 2026 FIFA World Cup?       | spread=0.8% | 1.9/min
+
+--- 23:09:28 | 8min elapsed ---
+Total trades observed: 1410
+Markets with trades: 38 / 200
+Trade rate: 176.0 trades/min = 10557/hour
+
+Top 10 markets by trade count:
+   852 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+   100 trades | Will England win the 2026 FIFA World Cup?     | spread=1.4% | 12.5/min
+    58 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=3.1% | 7.2/min
+    38 trades | Will Norway win the 2026 FIFA World Cup?      | spread=2.0% | 4.7/min
+    22 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 2.7/min
+    17 trades | Will USA win the 2026 FIFA World Cup?         | spread=2.9% | 2.1/min
+    16 trades | Will Spain win the 2026 FIFA World Cup?       | spread=0.8% | 2.0/min
+    16 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 2.0/min
+    14 trades | Will England win the 2026 FIFA World Cup?     | spread=0.2% | 1.7/min
+
+--- 23:10:28 | 9min elapsed ---
+Total trades observed: 1543
+Markets with trades: 40 / 200
+Trade rate: 171.2 trades/min = 10269/hour
+
+Top 10 markets by trade count:
+   891 trades | Mexico vs. England: Team to Advance          
+   192 trades | Mexico vs. England: Team to Advance          
+   130 trades | Will England win the 2026 FIFA World Cup?     | spread=2.1% | 14.4/min
+    66 trades | Will Portugal win the 2026 FIFA World Cup?    | spread=1.6% | 7.3/min
+    45 trades | Will Norway win the 2026 FIFA World Cup?      | spread=2.1% | 5.0/min
+    26 trades | Will Argentina win the 2026 FIFA World Cup?   | spread=0.6% | 2.9/min
+    26 trades | Will France win the 2026 FIFA World Cup?      | spread=0.3% | 2.9/min
+    21 trades | Will USA win the 2026 FIFA World Cup?         | spread=2.9% | 2.3/min
+    19 trades | Will Spain win the 2026 FIFA World Cup?       | spread=0.8% | 2.1/min
+    16 trades | Will England win the 2026 FIFA World Cup?     | spread=0.3% | 1.8/min

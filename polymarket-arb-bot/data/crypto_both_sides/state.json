@@ -1,0 +1,26 @@
+{
+  "positions": {
+    "token1": {
+      "status": "holding",
+      "buy_price": 0.4,
+      "shares": 5,
+      "side": "Up",
+      "crypto": "BTC",
+      "market_slug": "btc-updown-5m-1000",
+      "end_ts": 1783537934,
+      "condition_id": "0xabababababababababababababababababababababababababababababababab",
+      "tick_size": "0.01",
+      "cost": 2.0,
+      "open_time": 1783537694.8528852
+    }
+  },
+  "market_pairs": {},
+  "daily_pnl": 1.5,
+  "daily_pnl_reset": 1783537694.8528056,
+  "stopped_today": false,
+  "total_trades": 3,
+  "total_profit": 0.0,
+  "total_splits": 0,
+  "total_redeems": 0,
+  "cash_cache": 50.0
+}

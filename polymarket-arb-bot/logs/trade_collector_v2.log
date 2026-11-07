@@ -1,0 +1,1557 @@
+
+======================================================================
+REAL TRADE DATA COLLECTOR V2 — Data API (PUBLIC, no auth)
+Duration: 60 minutes | Poll every 30s
+======================================================================
+
+
+--- Poll #1 | 23:11:12 | 0.0min ---
+New trades this batch: 500
+Total unique trades: 500
+Markets seen: 198
+Rate: 6622585263.2 trades/min = 397355115789/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        42 $ 20076.69     0/42   478.5
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        22 $   492.49     21/1    33.4
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     20 $   333.44     20/0   203.7
+Will England win the 2026 FIFA World Cup?              19 $   620.27     16/3   101.9
+Mexico vs. England: Team to Advance                    12 $  1286.54     0/12   107.3
+Exact Score: Mexico 2 - 3 England?                      9 $  1636.44      0/9   182.0
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET          8 $    97.73      7/1    14.6
+Will United States win on 2026-07-06?                   7 $   212.60      7/0    84.4
+Solana Up or Down - July 5, 11:05PM-11:10PM ET          7 $    23.45      3/4     5.0
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET        6 $    22.63      4/2     9.6
+Will the highest temperature in New York City be b      6 $    91.73      6/0    15.3
+Portugal vs. Spain: Team to Advance                     4 $   335.18      4/0   206.2
+Will Spain win on 2026-07-06?                           4 $    96.00      4/0    47.1
+
+--- Poll #3 | 23:12:13 | 1.0min ---
+New trades this batch: 0
+Total unique trades: 500
+Markets seen: 198
+Rate: 497.1 trades/min = 29824/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        42 $ 20076.69     0/42   478.5
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        22 $   492.49     21/1    33.4
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     20 $   333.44     20/0   203.7
+Will England win the 2026 FIFA World Cup?              19 $   620.27     16/3   101.9
+Mexico vs. England: Team to Advance                    12 $  1286.54     0/12   107.3
+Exact Score: Mexico 2 - 3 England?                      9 $  1636.44      0/9   182.0
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET          8 $    97.73      7/1    14.6
+Will United States win on 2026-07-06?                   7 $   212.60      7/0    84.4
+Solana Up or Down - July 5, 11:05PM-11:10PM ET          7 $    23.45      3/4     5.0
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET        6 $    22.63      4/2     9.6
+Will the highest temperature in New York City be b      6 $    91.73      6/0    15.3
+Portugal vs. Spain: Team to Advance                     4 $   335.18      4/0   206.2
+Will Spain win on 2026-07-06?                           4 $    96.00      4/0    47.1
+
+--- Poll #5 | 23:13:13 | 2.0min ---
+New trades this batch: 0
+Total unique trades: 500
+Markets seen: 198
+Rate: 248.8 trades/min = 14926/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        42 $ 20076.69     0/42   478.5
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        22 $   492.49     21/1    33.4
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     20 $   333.44     20/0   203.7
+Will England win the 2026 FIFA World Cup?              19 $   620.27     16/3   101.9
+Mexico vs. England: Team to Advance                    12 $  1286.54     0/12   107.3
+Exact Score: Mexico 2 - 3 England?                      9 $  1636.44      0/9   182.0
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET          8 $    97.73      7/1    14.6
+Will United States win on 2026-07-06?                   7 $   212.60      7/0    84.4
+Solana Up or Down - July 5, 11:05PM-11:10PM ET          7 $    23.45      3/4     5.0
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET        6 $    22.63      4/2     9.6
+Will the highest temperature in New York City be b      6 $    91.73      6/0    15.3
+Portugal vs. Spain: Team to Advance                     4 $   335.18      4/0   206.2
+Will Spain win on 2026-07-06?                           4 $    96.00      4/0    47.1
+
+--- Poll #7 | 23:14:13 | 3.0min ---
+New trades this batch: 0
+Total unique trades: 500
+Markets seen: 198
+Rate: 165.9 trades/min = 9955/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        42 $ 20076.69     0/42   478.5
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        22 $   492.49     21/1    33.4
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     20 $   333.44     20/0   203.7
+Will England win the 2026 FIFA World Cup?              19 $   620.27     16/3   101.9
+Mexico vs. England: Team to Advance                    12 $  1286.54     0/12   107.3
+Exact Score: Mexico 2 - 3 England?                      9 $  1636.44      0/9   182.0
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET          8 $    97.73      7/1    14.6
+Will United States win on 2026-07-06?                   7 $   212.60      7/0    84.4
+Solana Up or Down - July 5, 11:05PM-11:10PM ET          7 $    23.45      3/4     5.0
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET        6 $    22.63      4/2     9.6
+Will the highest temperature in New York City be b      6 $    91.73      6/0    15.3
+Portugal vs. Spain: Team to Advance                     4 $   335.18      4/0   206.2
+Will Spain win on 2026-07-06?                           4 $    96.00      4/0    47.1
+
+--- Poll #9 | 23:15:13 | 4.0min ---
+New trades this batch: 0
+Total unique trades: 500
+Markets seen: 198
+Rate: 124.5 trades/min = 7468/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        42 $ 20076.69     0/42   478.5
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        22 $   492.49     21/1    33.4
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     20 $   333.44     20/0   203.7
+Will England win the 2026 FIFA World Cup?              19 $   620.27     16/3   101.9
+Mexico vs. England: Team to Advance                    12 $  1286.54     0/12   107.3
+Exact Score: Mexico 2 - 3 England?                      9 $  1636.44      0/9   182.0
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET          8 $    97.73      7/1    14.6
+Will United States win on 2026-07-06?                   7 $   212.60      7/0    84.4
+Solana Up or Down - July 5, 11:05PM-11:10PM ET          7 $    23.45      3/4     5.0
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET        6 $    22.63      4/2     9.6
+Will the highest temperature in New York City be b      6 $    91.73      6/0    15.3
+Portugal vs. Spain: Team to Advance                     4 $   335.18      4/0   206.2
+Will Spain win on 2026-07-06?                           4 $    96.00      4/0    47.1
+
+--- Poll #11 | 23:16:14 | 5.0min ---
+New trades this batch: 500
+Total unique trades: 1000
+Markets seen: 305
+Rate: 199.2 trades/min = 11951/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        58 $ 26672.14     0/58   460.3
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     24 $   953.56     24/0   597.3
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           15 $  4081.07     15/0   371.8
+Will United States win on 2026-07-06?                  14 $  4283.65     13/1   849.7
+XRP Up or Down - July 5, 11:00PM-11:15PM ET            13 $    45.73     12/1     7.1
+XRP Up or Down - July 5, 11:10PM-11:15PM ET            12 $    69.12     10/2    10.6
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET         11 $   141.38     10/1    14.7
+
+--- Poll #13 | 23:17:14 | 6.0min ---
+New trades this batch: 0
+Total unique trades: 1000
+Markets seen: 305
+Rate: 165.9 trades/min = 9955/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        58 $ 26672.14     0/58   460.3
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     24 $   953.56     24/0   597.3
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           15 $  4081.07     15/0   371.8
+Will United States win on 2026-07-06?                  14 $  4283.65     13/1   849.7
+XRP Up or Down - July 5, 11:00PM-11:15PM ET            13 $    45.73     12/1     7.1
+XRP Up or Down - July 5, 11:10PM-11:15PM ET            12 $    69.12     10/2    10.6
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET         11 $   141.38     10/1    14.7
+
+--- Poll #15 | 23:18:14 | 7.0min ---
+New trades this batch: 0
+Total unique trades: 1000
+Markets seen: 305
+Rate: 142.2 trades/min = 8534/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        58 $ 26672.14     0/58   460.3
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     24 $   953.56     24/0   597.3
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           15 $  4081.07     15/0   371.8
+Will United States win on 2026-07-06?                  14 $  4283.65     13/1   849.7
+XRP Up or Down - July 5, 11:00PM-11:15PM ET            13 $    45.73     12/1     7.1
+XRP Up or Down - July 5, 11:10PM-11:15PM ET            12 $    69.12     10/2    10.6
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET         11 $   141.38     10/1    14.7
+
+--- Poll #17 | 23:19:14 | 8.0min ---
+New trades this batch: 0
+Total unique trades: 1000
+Markets seen: 305
+Rate: 124.5 trades/min = 7468/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        58 $ 26672.14     0/58   460.3
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     24 $   953.56     24/0   597.3
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           15 $  4081.07     15/0   371.8
+Will United States win on 2026-07-06?                  14 $  4283.65     13/1   849.7
+XRP Up or Down - July 5, 11:00PM-11:15PM ET            13 $    45.73     12/1     7.1
+XRP Up or Down - July 5, 11:10PM-11:15PM ET            12 $    69.12     10/2    10.6
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET         11 $   141.38     10/1    14.7
+
+--- Poll #19 | 23:20:15 | 9.0min ---
+New trades this batch: 0
+Total unique trades: 1000
+Markets seen: 305
+Rate: 110.6 trades/min = 6639/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Will England win on 2026-07-05?                        58 $ 26672.14     0/58   460.3
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     24 $   953.56     24/0   597.3
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           15 $  4081.07     15/0   371.8
+Will United States win on 2026-07-06?                  14 $  4283.65     13/1   849.7
+XRP Up or Down - July 5, 11:00PM-11:15PM ET            13 $    45.73     12/1     7.1
+XRP Up or Down - July 5, 11:10PM-11:15PM ET            12 $    69.12     10/2    10.6
+Bitcoin Up or Down - July 5, 8:00PM-12:00AM ET         11 $   141.38     10/1    14.7
+
+--- Poll #21 | 23:21:15 | 10.0min ---
+New trades this batch: 500
+Total unique trades: 1500
+Markets seen: 416
+Rate: 149.4 trades/min = 8963/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     62 $  7580.72     62/0  1259.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           42 $  6291.49     42/0   283.3
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+XRP Up or Down - July 5, 11:15PM-11:20PM ET            22 $    66.86     21/1     6.8
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+Will United States win on 2026-07-06?                  15 $  4293.65     14/1   794.9
+
+--- Poll #23 | 23:22:15 | 11.0min ---
+New trades this batch: 0
+Total unique trades: 1500
+Markets seen: 416
+Rate: 135.8 trades/min = 8147/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     62 $  7580.72     62/0  1259.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           42 $  6291.49     42/0   283.3
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+XRP Up or Down - July 5, 11:15PM-11:20PM ET            22 $    66.86     21/1     6.8
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+Will United States win on 2026-07-06?                  15 $  4293.65     14/1   794.9
+
+--- Poll #25 | 23:23:15 | 12.1min ---
+New trades this batch: 0
+Total unique trades: 1500
+Markets seen: 416
+Rate: 124.5 trades/min = 7468/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     62 $  7580.72     62/0  1259.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           42 $  6291.49     42/0   283.3
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+XRP Up or Down - July 5, 11:15PM-11:20PM ET            22 $    66.86     21/1     6.8
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+Will United States win on 2026-07-06?                  15 $  4293.65     14/1   794.9
+
+--- Poll #27 | 23:24:16 | 13.1min ---
+New trades this batch: 0
+Total unique trades: 1500
+Markets seen: 416
+Rate: 114.9 trades/min = 6894/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     62 $  7580.72     62/0  1259.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           42 $  6291.49     42/0   283.3
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+XRP Up or Down - July 5, 11:15PM-11:20PM ET            22 $    66.86     21/1     6.8
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+Will United States win on 2026-07-06?                  15 $  4293.65     14/1   794.9
+
+--- Poll #29 | 23:25:16 | 14.1min ---
+New trades this batch: 0
+Total unique trades: 1500
+Markets seen: 416
+Rate: 106.7 trades/min = 6402/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In     62 $  7580.72     62/0  1259.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           42 $  6291.49     42/0   283.3
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              22 $  1597.62     18/4   402.5
+XRP Up or Down - July 5, 11:15PM-11:20PM ET            22 $    66.86     21/1     6.8
+Ethereum Up or Down - July 5, 11:05PM-11:10PM ET       21 $   122.00     17/4    10.1
+Mexico vs. England: Team to Advance                    17 $  2252.95     0/17   132.7
+Will United States win on 2026-07-06?                  15 $  4293.65     14/1   794.9
+
+--- Poll #31 | 23:26:16 | 15.1min ---
+New trades this batch: 500
+Total unique trades: 2000
+Markets seen: 526
+Rate: 132.8 trades/min = 7966/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    100 $  7972.66     99/1   844.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        72 $   802.08    50/22    21.6
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           71 $  7997.81     70/1   254.4
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       39 $   326.79    21/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              23 $  1797.62     19/4   446.2
+
+--- Poll #33 | 23:27:16 | 16.1min ---
+New trades this batch: 0
+Total unique trades: 2000
+Markets seen: 526
+Rate: 124.4 trades/min = 7467/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    100 $  7972.66     99/1   844.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        72 $   802.08    50/22    21.6
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           71 $  7997.81     70/1   254.4
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       39 $   326.79    21/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              23 $  1797.62     19/4   446.2
+
+--- Poll #35 | 23:28:17 | 17.1min ---
+New trades this batch: 0
+Total unique trades: 2000
+Markets seen: 526
+Rate: 117.1 trades/min = 7028/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    100 $  7972.66     99/1   844.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        72 $   802.08    50/22    21.6
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           71 $  7997.81     70/1   254.4
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       39 $   326.79    21/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              23 $  1797.62     19/4   446.2
+
+--- Poll #37 | 23:29:17 | 18.1min ---
+New trades this batch: 0
+Total unique trades: 2000
+Markets seen: 526
+Rate: 110.6 trades/min = 6638/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    100 $  7972.66     99/1   844.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        72 $   802.08    50/22    21.6
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           71 $  7997.81     70/1   254.4
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       39 $   326.79    21/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              23 $  1797.62     19/4   446.2
+
+--- Poll #39 | 23:30:17 | 19.1min ---
+New trades this batch: 0
+Total unique trades: 2000
+Markets seen: 526
+Rate: 104.8 trades/min = 6288/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    100 $  7972.66     99/1   844.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        72 $   802.08    50/22    21.6
+LoL: Bilibili Gaming vs LYON - Game 1 Winner           71 $  7997.81     70/1   254.4
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       39 $   326.79    21/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Ethereum Up or Down - July 5, 11:10PM-11:15PM ET       26 $   149.95     21/5    11.2
+Will England win the 2026 FIFA World Cup?              23 $  1797.62     19/4   446.2
+
+--- Poll #41 | 23:31:18 | 20.1min ---
+New trades this batch: 500
+Total unique trades: 2500
+Markets seen: 618
+Rate: 124.5 trades/min = 7468/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    162 $  9312.09   146/16   547.7
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          112 $ 10548.15    105/7   215.3
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Will England win the 2026 FIFA World Cup?              27 $  1804.62     23/4   381.9
+
+--- Poll #43 | 23:32:18 | 21.1min ---
+New trades this batch: 0
+Total unique trades: 2500
+Markets seen: 618
+Rate: 118.5 trades/min = 7112/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    162 $  9312.09   146/16   547.7
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          112 $ 10548.15    105/7   215.3
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Will England win the 2026 FIFA World Cup?              27 $  1804.62     23/4   381.9
+
+--- Poll #45 | 23:33:18 | 22.1min ---
+New trades this batch: 0
+Total unique trades: 2500
+Markets seen: 618
+Rate: 113.1 trades/min = 6789/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    162 $  9312.09   146/16   547.7
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          112 $ 10548.15    105/7   215.3
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Will England win the 2026 FIFA World Cup?              27 $  1804.62     23/4   381.9
+
+--- Poll #47 | 23:34:18 | 23.1min ---
+New trades this batch: 0
+Total unique trades: 2500
+Markets seen: 618
+Rate: 108.2 trades/min = 6494/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    162 $  9312.09   146/16   547.7
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          112 $ 10548.15    105/7   215.3
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Will England win the 2026 FIFA World Cup?              27 $  1804.62     23/4   381.9
+
+--- Poll #49 | 23:35:18 | 24.1min ---
+New trades this batch: 0
+Total unique trades: 2500
+Markets seen: 618
+Rate: 103.7 trades/min = 6223/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    162 $  9312.09   146/16   547.7
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          112 $ 10548.15    105/7   215.3
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+Will England win the 2026 FIFA World Cup?              27 $  1804.62     23/4   381.9
+
+--- Poll #51 | 23:36:19 | 25.1min ---
+New trades this batch: 500
+Total unique trades: 3000
+Markets seen: 682
+Rate: 119.5 trades/min = 7169/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    176 $ 10434.11   158/18   512.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          136 $ 12090.80    127/9   195.5
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+
+--- Poll #53 | 23:37:19 | 26.1min ---
+New trades this batch: 0
+Total unique trades: 3000
+Markets seen: 682
+Rate: 114.9 trades/min = 6893/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    176 $ 10434.11   158/18   512.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          136 $ 12090.80    127/9   195.5
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+
+--- Poll #55 | 23:38:19 | 27.1min ---
+New trades this batch: 0
+Total unique trades: 3000
+Markets seen: 682
+Rate: 110.6 trades/min = 6638/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    176 $ 10434.11   158/18   512.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          136 $ 12090.80    127/9   195.5
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+
+--- Poll #57 | 23:39:19 | 28.1min ---
+New trades this batch: 0
+Total unique trades: 3000
+Markets seen: 682
+Rate: 106.7 trades/min = 6401/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    176 $ 10434.11   158/18   512.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          136 $ 12090.80    127/9   195.5
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+
+--- Poll #59 | 23:40:20 | 29.1min ---
+New trades this batch: 0
+Total unique trades: 3000
+Markets seen: 682
+Rate: 103.0 trades/min = 6180/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    176 $ 10434.11   158/18   512.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          136 $ 12090.80    127/9   195.5
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36 $   458.79     29/7   415.9
+Ethereum Up or Down - July 5, 11:20PM-11:25PM ET       33 $   159.06     25/8    11.1
+Ethereum Up or Down - July 5, 11:00PM-11:15PM ET       30 $   164.03     25/5     9.2
+
+--- Poll #61 | 23:41:20 | 30.1min ---
+New trades this batch: 500
+Total unique trades: 3500
+Markets seen: 767
+Rate: 116.2 trades/min = 6970/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          189 $ 19739.09   170/19   192.5
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    183 $ 10472.91   164/19   493.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET        80 $   978.93    66/14    22.5
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       45 $   476.20     41/4    19.7
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37 $  1041.70    14/23    55.1
+
+--- Poll #63 | 23:42:20 | 31.1min ---
+New trades this batch: 0
+Total unique trades: 3500
+Markets seen: 767
+Rate: 112.4 trades/min = 6745/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          189 $ 19739.09   170/19   192.5
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    183 $ 10472.91   164/19   493.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET        80 $   978.93    66/14    22.5
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       45 $   476.20     41/4    19.7
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37 $  1041.70    14/23    55.1
+
+--- Poll #65 | 23:43:20 | 32.1min ---
+New trades this batch: 0
+Total unique trades: 3500
+Markets seen: 767
+Rate: 108.9 trades/min = 6534/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          189 $ 19739.09   170/19   192.5
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    183 $ 10472.91   164/19   493.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET        80 $   978.93    66/14    22.5
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       45 $   476.20     41/4    19.7
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37 $  1041.70    14/23    55.1
+
+--- Poll #67 | 23:44:21 | 33.1min ---
+New trades this batch: 0
+Total unique trades: 3500
+Markets seen: 767
+Rate: 105.6 trades/min = 6337/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          189 $ 19739.09   170/19   192.5
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    183 $ 10472.91   164/19   493.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET        80 $   978.93    66/14    22.5
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       45 $   476.20     41/4    19.7
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37 $  1041.70    14/23    55.1
+
+--- Poll #69 | 23:45:21 | 34.1min ---
+New trades this batch: 0
+Total unique trades: 3500
+Markets seen: 767
+Rate: 102.5 trades/min = 6150/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          189 $ 19739.09   170/19   192.5
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    183 $ 10472.91   164/19   493.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET        80 $   978.93    66/14    22.5
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       45 $   476.20     41/4    19.7
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37 $  1041.70    14/23    55.1
+
+--- Poll #71 | 23:46:21 | 35.1min ---
+New trades this batch: 500
+Total unique trades: 4000
+Markets seen: 814
+Rate: 113.8 trades/min = 6828/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          219 $ 20987.12   193/26   177.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    207 $ 10738.29   177/30   442.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+
+--- Poll #73 | 23:47:21 | 36.2min ---
+New trades this batch: 0
+Total unique trades: 4000
+Markets seen: 814
+Rate: 110.6 trades/min = 6638/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          219 $ 20987.12   193/26   177.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    207 $ 10738.29   177/30   442.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+
+--- Poll #75 | 23:48:22 | 37.2min ---
+New trades this batch: 0
+Total unique trades: 4000
+Markets seen: 814
+Rate: 107.6 trades/min = 6459/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          219 $ 20987.12   193/26   177.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    207 $ 10738.29   177/30   442.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+
+--- Poll #77 | 23:49:22 | 38.2min ---
+New trades this batch: 0
+Total unique trades: 4000
+Markets seen: 814
+Rate: 104.8 trades/min = 6289/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          219 $ 20987.12   193/26   177.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    207 $ 10738.29   177/30   442.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+
+--- Poll #79 | 23:50:22 | 39.2min ---
+New trades this batch: 0
+Total unique trades: 4000
+Markets seen: 814
+Rate: 102.1 trades/min = 6128/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          219 $ 20987.12   193/26   177.4
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    207 $ 10738.29   177/30   442.6
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41 $   347.77    23/18    11.4
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38 $   603.41     32/6    30.7
+
+--- Poll #81 | 23:51:23 | 40.2min ---
+New trades this batch: 500
+Total unique trades: 4500
+Markets seen: 885
+Rate: 112.0 trades/min = 6722/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          243 $ 31650.51   195/48   205.0
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    218 $ 12809.30   188/30   434.4
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47 $   290.32     45/2     9.1
+
+--- Poll #83 | 23:52:23 | 41.2min ---
+New trades this batch: 0
+Total unique trades: 4500
+Markets seen: 885
+Rate: 109.3 trades/min = 6557/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          243 $ 31650.51   195/48   205.0
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    218 $ 12809.30   188/30   434.4
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47 $   290.32     45/2     9.1
+
+--- Poll #85 | 23:53:23 | 42.2min ---
+New trades this batch: 0
+Total unique trades: 4500
+Markets seen: 885
+Rate: 106.7 trades/min = 6401/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          243 $ 31650.51   195/48   205.0
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    218 $ 12809.30   188/30   434.4
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47 $   290.32     45/2     9.1
+
+--- Poll #87 | 23:54:23 | 43.2min ---
+New trades this batch: 0
+Total unique trades: 4500
+Markets seen: 885
+Rate: 104.2 trades/min = 6252/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          243 $ 31650.51   195/48   205.0
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    218 $ 12809.30   188/30   434.4
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47 $   290.32     45/2     9.1
+
+--- Poll #89 | 23:55:24 | 44.2min ---
+New trades this batch: 0
+Total unique trades: 4500
+Markets seen: 885
+Rate: 101.8 trades/min = 6110/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          243 $ 31650.51   195/48   205.0
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    218 $ 12809.30   188/30   434.4
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47 $   290.32     45/2     9.1
+
+--- Poll #91 | 23:56:24 | 45.2min ---
+New trades this batch: 500
+Total unique trades: 5000
+Markets seen: 923
+Rate: 110.6 trades/min = 6638/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          244 $ 31877.98   195/49   205.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+
+--- Poll #93 | 23:57:24 | 46.2min ---
+New trades this batch: 0
+Total unique trades: 5000
+Markets seen: 923
+Rate: 108.2 trades/min = 6494/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          244 $ 31877.98   195/49   205.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+
+--- Poll #95 | 23:58:24 | 47.2min ---
+New trades this batch: 0
+Total unique trades: 5000
+Markets seen: 923
+Rate: 105.9 trades/min = 6355/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          244 $ 31877.98   195/49   205.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+
+--- Poll #97 | 23:59:25 | 48.2min ---
+New trades this batch: 0
+Total unique trades: 5000
+Markets seen: 923
+Rate: 103.7 trades/min = 6223/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          244 $ 31877.98   195/49   205.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+
+--- Poll #99 | 00:00:25 | 49.2min ---
+New trades this batch: 0
+Total unique trades: 5000
+Markets seen: 923
+Rate: 101.6 trades/min = 6096/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          244 $ 31877.98   195/49   205.1
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58 $   913.65     49/9    29.8
+
+--- Poll #101 | 00:01:25 | 50.2min ---
+New trades this batch: 500
+Total unique trades: 5500
+Markets seen: 994
+Rate: 109.5 trades/min = 6572/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+
+--- Poll #103 | 00:02:26 | 51.2min ---
+New trades this batch: 0
+Total unique trades: 5500
+Markets seen: 994
+Rate: 107.4 trades/min = 6442/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+
+--- Poll #105 | 00:03:26 | 52.2min ---
+New trades this batch: 0
+Total unique trades: 5500
+Markets seen: 994
+Rate: 105.3 trades/min = 6318/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+
+--- Poll #107 | 00:04:26 | 53.2min ---
+New trades this batch: 0
+Total unique trades: 5500
+Markets seen: 994
+Rate: 103.3 trades/min = 6199/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+
+--- Poll #109 | 00:05:26 | 54.2min ---
+New trades this batch: 0
+Total unique trades: 5500
+Markets seen: 994
+Rate: 101.4 trades/min = 6084/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    227 $ 12855.98   193/34   421.9
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70 $   418.46     62/8    20.4
+
+--- Poll #111 | 00:06:27 | 55.2min ---
+New trades this batch: 500
+Total unique trades: 6000
+Markets seen: 1044
+Rate: 108.6 trades/min = 6517/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254 $  4295.27   211/43    23.9
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229 $ 12885.98   195/34   418.3
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+
+--- Poll #113 | 00:07:27 | 56.2min ---
+New trades this batch: 0
+Total unique trades: 6000
+Markets seen: 1044
+Rate: 106.7 trades/min = 6400/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254 $  4295.27   211/43    23.9
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229 $ 12885.98   195/34   418.3
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+
+--- Poll #115 | 00:08:27 | 57.3min ---
+New trades this batch: 0
+Total unique trades: 6000
+Markets seen: 1044
+Rate: 104.8 trades/min = 6288/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254 $  4295.27   211/43    23.9
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229 $ 12885.98   195/34   418.3
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+
+--- Poll #117 | 00:09:28 | 58.3min ---
+New trades this batch: 0
+Total unique trades: 6000
+Markets seen: 1044
+Rate: 103.0 trades/min = 6180/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254 $  4295.27   211/43    23.9
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229 $ 12885.98   195/34   418.3
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+
+--- Poll #119 | 00:10:28 | 59.3min ---
+New trades this batch: 0
+Total unique trades: 6000
+Markets seen: 1044
+Rate: 101.2 trades/min = 6075/hour
+
+Top 15 markets by trade count:
+Market                                             Trades     Volume      B/S   AvgSz
+-------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254 $  4295.27   211/43    23.9
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246 $ 34766.56   195/51   215.2
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229 $ 12885.98   195/34   418.3
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175 $  2050.99   150/25    21.0
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162 $  1743.26   135/27    21.3
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156 $  2733.58   129/27    44.0
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140 $  1464.69   115/25    22.7
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140 $  4670.16   118/22    42.6
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134 $  2244.66   115/19    40.4
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131 $  1400.00    99/32    20.1
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125 $  1257.61   106/19    24.7
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125 $  1041.90    98/27    15.8
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76 $   625.95    61/15    15.1
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75 $   927.77    52/23    41.5
+Will England win on 2026-07-05?                        70 $ 27213.58     0/70   389.2
+
+======================================================================
+FINAL REPORT — 60.3 minutes
+======================================================================
+Total unique trades: 6000
+Unique markets: 1044
+Rate: 99.6/min = 5974/hour
+
+Top 30 markets for market making:
+Market                                             Trades   /Hour     Volume  AvgPrc      B/S
+--------------------------------------------------------------------------------------------
+Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET       254   252.9 $  4295.27  0.7202   211/43
+LoL: Bilibili Gaming vs LYON - Game 1 Winner          246   244.9 $ 34766.56  0.5871   195/51
+LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season In    229   228.0 $ 12885.98  0.2354   195/34
+Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET       175   174.2 $  2050.99  0.6349   150/25
+Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET       162   161.3 $  1743.26  0.6607   135/27
+Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET       156   155.3 $  2733.58  0.5477   129/27
+Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET       140   139.4 $  1464.69  0.5188   115/25
+Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET       140   139.4 $  4670.16  0.7392   118/22
+Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET       134   133.4 $  2244.66  0.7904   115/19
+Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET       131   130.4 $  1400.00  0.5639    99/32
+Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET       125   124.5 $  1257.61  0.5682   106/19
+Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET       125   124.5 $  1041.90  0.5239    98/27
+Ethereum Up or Down - July 5, 11:30PM-11:45PM ET       76    75.7 $   625.95  0.4337    61/15
+Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET        75    74.7 $   927.77  0.5985    52/23
+Will England win on 2026-07-05?                        70    69.7 $ 27213.58  0.9990     0/70
+Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET        70    69.7 $   418.46  0.6299     62/8
+Bitcoin Up or Down - July 5, 11:45PM-12:00AM ET        64    63.7 $  1619.55  0.6842    54/10
+Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET        58    57.7 $   913.65  0.5941     49/9
+Ethereum Up or Down - July 5, 11:45PM-12:00AM ET       48    47.8 $   517.11  0.6279     44/4
+Ethereum Up or Down - July 6, 12:00AM-12:05AM ET       48    47.8 $   362.17  0.5397    36/12
+Ethereum Up or Down - July 5, 11:50PM-11:55PM ET       47    46.8 $   237.25  0.5175     44/3
+Ethereum Up or Down - July 5, 11:45PM-11:50PM ET       47    46.8 $   290.32  0.8123     45/2
+Ethereum Up or Down - July 5, 11:15PM-11:30PM ET       41    40.8 $   347.77  0.5424    23/18
+Ethereum Up or Down - July 5, 11:15PM-11:20PM ET       38    37.8 $   603.41  0.5006     32/6
+Will England win the 2026 FIFA World Cup?              37    36.8 $  2039.35  0.1780    27/10
+Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET        37    36.8 $  1041.70  0.7032    14/23
+Ethereum Up or Down - July 5, 11:55PM-12:00AM ET       37    36.8 $   199.65  0.6634     33/4
+Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET        36    35.8 $   458.79  0.4864     29/7
+XRP Up or Down - July 5, 11:30PM-11:45PM ET            35    34.8 $   233.81  0.4767     35/0
+Ethereum Up or Down - July 5, 11:40PM-11:45PM ET       35    34.8 $   403.85  0.7865     34/1
+
+======================================================================
+REALISTIC REVENUE PROJECTION (from real trade data)
+======================================================================
+  Conservative (1/10 share, 1¢ spread): $5487.70/day
+  Moderate (1/5 share, 1¢ spread):     $10975.39/day
+  Friend's actual:                      $734/day
+
+Saved: /home/star/polymarket-arb-bot/data/real_trade_rates.json
+Summary: /home/star/polymarket-arb-bot/data/trade_calibration.json

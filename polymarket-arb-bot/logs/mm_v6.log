@@ -1,0 +1,88 @@
+2026-07-06 02:00:41,459 [polymarket-arb.mm_paper] INFO: State reset.
+2026-07-06 02:00:41,460 [polymarket-arb.mm_paper] INFO: Initializing market maker...
+2026-07-06 02:00:41,461 [polymarket-arb.hybrid_scanner] INFO: Phase 1: Discovering markets via REST API...
+2026-07-06 02:00:44,743 [polymarket-arb.scanner] INFO: Fetched 1000 active events from Gamma
+2026-07-06 02:00:45,025 [polymarket-arb.scanner] INFO: Scan complete: {'events_total': 1000, 'events_with_arb_potential': 917, 'markets_total': 5463, 'markets_with_books': 0, 'scan_time_seconds': 3.56}
+2026-07-06 02:00:45,102 [polymarket-arb.hybrid_scanner] INFO: Discovered 5463 markets, 10926 tokens
+2026-07-06 02:00:45,203 [polymarket-arb.mm_paper] INFO: Found 160 tokens with recent trades (last 10 min)
+2026-07-06 02:00:45,227 [polymarket-arb.ws] INFO: Registered 200 assets for subscription (total: 200)
+2026-07-06 02:00:45,548 [polymarket-arb.ws] INFO: WS connected! (connection #1)
+2026-07-06 02:00:45,548 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:00:45,728 [polymarket-arb.mm_paper] INFO: Waiting for WebSocket orderbook data...
+2026-07-06 02:00:46,728 [polymarket-arb.mm_paper] INFO: Received 200 orderbooks from WebSocket
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO: Selected 10 markets for market making
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO:   LoL: T1 vs FURIA Esports (BO5) - Mid-Season I | bid=0.0200 ask=0.0230 spread=13.0% trades=3
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO:   Will there be no change in Fed interest rates | bid=0.1000 ask=0.1100 spread=9.1% trades=1
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO:   Exact Score: Portugal 2 - 3 Spain?            | bid=0.0350 ask=0.0380 spread=7.9% trades=1
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO:   Will Pete Buttigieg win the 2028 Democratic p | bid=0.0400 ask=0.0420 spread=4.8% trades=0
+2026-07-06 02:00:46,729 [polymarket-arb.mm_paper] INFO:   Will Morocco win the 2026 FIFA World Cup?     | bid=0.0260 ask=0.0270 spread=3.7% trades=3
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO:   Will Spain win on 2026-07-06?                 | bid=0.5000 ask=0.5100 spread=2.0% trades=4
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO:   United States vs. Belgium: Team to Advance    | bid=0.5200 ask=0.5300 spread=1.9% trades=5
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO:   Will Josh Shapiro win the 2028 Democratic pre | bid=0.0520 ask=0.0530 spread=1.9% trades=0
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO:   Portugal vs. Spain: Both Teams to Score       | bid=0.5800 ask=0.5900 spread=1.7% trades=1
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO:   Will Portugal win on 2026-07-06?              | bid=0.7600 ask=0.7700 spread=1.3% trades=1
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: ============================================================
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: MARKET MAKER BOT STARTING
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: Capital: $100,000 | Markets: 30
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: Position size: $1000 | Order: 500 shares
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: Fill probability: 30% per check
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: Scan interval: 1.5s | Queue ahead: 3
+2026-07-06 02:00:46,730 [polymarket-arb.mm_paper] INFO: ============================================================
+2026-07-06 02:01:28,573 [polymarket-arb.mm_paper] WARNING: STOP-LOSS: Closed United States vs. Belgium: Team to  @ 0.530 loss=$-265.00
+2026-07-06 02:01:39,095 [polymarket-arb.mm_paper] WARNING: STOP-LOSS: Closed Will Spain win on 2026-07-06? @ 0.510 loss=$-255.00
+2026-07-06 02:07:15,229 [polymarket-arb.ws] WARNING: WS silent for 327s — forcing fresh reconnect
+2026-07-06 02:07:20,922 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:07:21,195 [polymarket-arb.ws] INFO: WS connected! (connection #2)
+2026-07-06 02:07:21,196 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:12:50,924 [polymarket-arb.ws] WARNING: WS silent for 325s — forcing fresh reconnect
+2026-07-06 02:12:56,386 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:12:56,639 [polymarket-arb.ws] INFO: WS connected! (connection #3)
+2026-07-06 02:12:56,639 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:18:26,387 [polymarket-arb.ws] WARNING: WS silent for 327s — forcing fresh reconnect
+2026-07-06 02:18:31,982 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:18:32,252 [polymarket-arb.ws] INFO: WS connected! (connection #4)
+2026-07-06 02:18:32,253 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:24:01,984 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 02:24:07,363 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:24:07,588 [polymarket-arb.ws] INFO: WS connected! (connection #5)
+2026-07-06 02:24:07,588 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:29:37,365 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 02:29:42,828 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:29:43,078 [polymarket-arb.ws] INFO: WS connected! (connection #6)
+2026-07-06 02:29:43,079 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:35:12,829 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 02:35:18,307 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:35:23,566 [polymarket-arb.ws] INFO: WS connected! (connection #7)
+2026-07-06 02:35:23,567 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:40:48,308 [polymarket-arb.ws] WARNING: WS silent for 324s — forcing fresh reconnect
+2026-07-06 02:40:53,557 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:40:53,774 [polymarket-arb.ws] INFO: WS connected! (connection #8)
+2026-07-06 02:40:53,775 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:46:23,559 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 02:46:28,965 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:46:29,234 [polymarket-arb.ws] INFO: WS connected! (connection #9)
+2026-07-06 02:46:29,234 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:51:58,967 [polymarket-arb.ws] WARNING: WS silent for 325s — forcing fresh reconnect
+2026-07-06 02:52:04,570 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:52:04,846 [polymarket-arb.ws] INFO: WS connected! (connection #10)
+2026-07-06 02:52:04,847 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 02:57:34,572 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 02:57:40,038 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 02:57:40,289 [polymarket-arb.ws] INFO: WS connected! (connection #11)
+2026-07-06 02:57:40,290 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 03:03:10,039 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 03:03:15,438 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 03:03:15,685 [polymarket-arb.ws] INFO: WS connected! (connection #12)
+2026-07-06 03:03:15,686 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 03:08:45,440 [polymarket-arb.ws] WARNING: WS silent for 328s — forcing fresh reconnect
+2026-07-06 03:08:50,856 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 03:08:51,095 [polymarket-arb.ws] INFO: WS connected! (connection #13)
+2026-07-06 03:08:51,096 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 03:14:20,857 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 03:14:26,347 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 03:14:26,749 [polymarket-arb.ws] INFO: WS connected! (connection #14)
+2026-07-06 03:14:26,750 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)
+2026-07-06 03:19:56,348 [polymarket-arb.ws] WARNING: WS silent for 329s — forcing fresh reconnect
+2026-07-06 03:20:01,797 [polymarket-arb.ws] WARNING: Reconnect via _on_close failed — direct reconnect
+2026-07-06 03:20:02,063 [polymarket-arb.ws] INFO: WS connected! (connection #15)
+2026-07-06 03:20:02,063 [polymarket-arb.ws] INFO: Subscribed to 200 assets (2 messages)

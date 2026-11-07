@@ -1,0 +1,219 @@
+{
+  "collection_time": "2026-07-06T00:11:28.440077",
+  "duration_minutes": 60.26392714977264,
+  "total_trades_per_hour": 5973.7228724789165,
+  "top_markets": [
+    {
+      "title": "Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET",
+      "trades_per_hour": 252.88760160160746,
+      "avg_price": 0.72017775241063,
+      "avg_size": 23.92055767322835,
+      "volume": 4295.270040026888
+    },
+    {
+      "title": "LoL: Bilibili Gaming vs LYON - Game 1 Winner",
+      "trades_per_hour": 244.92263777163555,
+      "avg_price": 0.5871220346711381,
+      "avg_size": 215.18885994308943,
+      "volume": 34766.56462698014
+    },
+    {
+      "title": "LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season Invitational Playoffs",
+      "trades_per_hour": 227.99708963294532,
+      "avg_price": 0.2354361589039301,
+      "avg_size": 418.304629069869,
+      "volume": 12885.97782894733
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET",
+      "trades_per_hour": 174.23358378063506,
+      "avg_price": 0.6348800165765714,
+      "avg_size": 21.027124708571428,
+      "volume": 2050.9854839959394
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET",
+      "trades_per_hour": 161.29051755693075,
+      "avg_price": 0.6606946708,
+      "avg_size": 21.27637712962963,
+      "volume": 1743.2649200118178
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET",
+      "trades_per_hour": 155.31679468445185,
+      "avg_price": 0.5476706404333334,
+      "avg_size": 43.982453544871795,
+      "volume": 2733.582852090379
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET",
+      "trades_per_hour": 139.38686702450806,
+      "avg_price": 0.5187532154878571,
+      "avg_size": 22.66437522857143,
+      "volume": 1464.693438973781
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET",
+      "trades_per_hour": 139.38686702450806,
+      "avg_price": 0.7392103977307143,
+      "avg_size": 42.63209119285714,
+      "volume": 4670.157645000656
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET",
+      "trades_per_hour": 133.41314415202913,
+      "avg_price": 0.7904425121537313,
+      "avg_size": 40.404585768656716,
+      "volume": 2244.6639479260753
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET",
+      "trades_per_hour": 130.42628271578968,
+      "avg_price": 0.5639489208534352,
+      "avg_size": 20.059089702290073,
+      "volume": 1400.0016989962103
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET",
+      "trades_per_hour": 124.45255984331077,
+      "avg_price": 0.5682211697072,
+      "avg_size": 24.665484224,
+      "volume": 1257.607297995107
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET",
+      "trades_per_hour": 124.45255984331077,
+      "avg_price": 0.523939086484,
+      "avg_size": 15.834892752,
+      "volume": 1041.8953509962212
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:30PM-11:45PM ET",
+      "trades_per_hour": 75.66715638473295,
+      "avg_price": 0.43366675675263155,
+      "avg_size": 15.109324973684211,
+      "volume": 625.9489730031484
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET",
+      "trades_per_hour": 74.67153590598646,
+      "avg_price": 0.598495543396,
+      "avg_size": 41.472938893333335,
+      "volume": 927.7680720299118
+    },
+    {
+      "title": "Will England win on 2026-07-05?",
+      "trades_per_hour": 69.69343351225403,
+      "avg_price": 0.9990000000000001,
+      "avg_size": 389.15457142857144,
+      "volume": 27213.579180000015
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET",
+      "trades_per_hour": 69.69343351225403,
+      "avg_price": 0.6299437978842857,
+      "avg_size": 20.4146361,
+      "volume": 418.46308399932843
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:45PM-12:00AM ET",
+      "trades_per_hour": 63.719710639775116,
+      "avg_price": 0.6841527001828125,
+      "avg_size": 36.62846409375,
+      "volume": 1619.551272996395
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET",
+      "trades_per_hour": 57.74598776729619,
+      "avg_price": 0.5941046084965518,
+      "avg_size": 29.75563534482759,
+      "volume": 913.6487209958423
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:45PM-12:00AM ET",
+      "trades_per_hour": 47.78978297983134,
+      "avg_price": 0.6278582740499999,
+      "avg_size": 20.310915395833334,
+      "volume": 517.1096919995687
+    },
+    {
+      "title": "Ethereum Up or Down - July 6, 12:00AM-12:05AM ET",
+      "trades_per_hour": 47.78978297983134,
+      "avg_price": 0.5396555248770833,
+      "avg_size": 13.507812729166666,
+      "volume": 362.1676930019926
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:50PM-11:55PM ET",
+      "trades_per_hour": 46.79416250108485,
+      "avg_price": 0.5174643310531915,
+      "avg_size": 11.698028914893618,
+      "volume": 237.25476099452632
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:45PM-11:50PM ET",
+      "trades_per_hour": 46.79416250108485,
+      "avg_price": 0.812251504144681,
+      "avg_size": 9.060086914893617,
+      "volume": 290.31726800069174
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:15PM-11:30PM ET",
+      "trades_per_hour": 40.82043962860593,
+      "avg_price": 0.5424293030121952,
+      "avg_size": 11.386989048780489,
+      "volume": 347.7689470027497
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:15PM-11:20PM ET",
+      "trades_per_hour": 37.833578192366474,
+      "avg_price": 0.5006385953078948,
+      "avg_size": 30.65915728947369,
+      "volume": 603.4088840106043
+    },
+    {
+      "title": "Will England win the 2026 FIFA World Cup?",
+      "trades_per_hour": 36.837957713619986,
+      "avg_price": 0.1779818369378378,
+      "avg_size": 324.12726040540537,
+      "volume": 2039.345565994504
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET",
+      "trades_per_hour": 36.837957713619986,
+      "avg_price": 0.7032432406513514,
+      "avg_size": 55.10192810810811,
+      "volume": 1041.6989950002671
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:55PM-12:00AM ET",
+      "trades_per_hour": 36.837957713619986,
+      "avg_price": 0.6634317440054054,
+      "avg_size": 11.897326351351351,
+      "volume": 199.64874600168122
+    },
+    {
+      "title": "Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET",
+      "trades_per_hour": 35.842337234873504,
+      "avg_price": 0.4863840492138889,
+      "avg_size": 415.911762,
+      "volume": 458.78979782594314
+    },
+    {
+      "title": "XRP Up or Down - July 5, 11:30PM-11:45PM ET",
+      "trades_per_hour": 34.846716756127016,
+      "avg_price": 0.4767442540171428,
+      "avg_size": 12.377991342857143,
+      "volume": 233.81397900278668
+    },
+    {
+      "title": "Ethereum Up or Down - July 5, 11:40PM-11:45PM ET",
+      "trades_per_hour": 34.846716756127016,
+      "avg_price": 0.7865391155057142,
+      "avg_size": 25.59755865714286,
+      "volume": 403.8541780153248
+    }
+  ],
+  "projected_daily_conservative": 5487.696065900473,
+  "projected_daily_moderate": 10975.392131800945
+}

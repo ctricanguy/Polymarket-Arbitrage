@@ -1,0 +1,32 @@
+2026-07-05 23:01:28,171 [polymarket-arb.mm_paper] INFO: State reset.
+2026-07-05 23:01:28,171 [polymarket-arb.mm_paper] INFO: Initializing market maker...
+2026-07-05 23:01:28,172 [polymarket-arb.hybrid_scanner] INFO: Phase 1: Discovering markets via REST API...
+2026-07-05 23:01:31,057 [polymarket-arb.scanner] INFO: Fetched 1000 active events from Gamma
+2026-07-05 23:01:31,333 [polymarket-arb.scanner] INFO: Scan complete: {'events_total': 999, 'events_with_arb_potential': 914, 'markets_total': 5487, 'markets_with_books': 0, 'scan_time_seconds': 3.16}
+2026-07-05 23:01:31,410 [polymarket-arb.hybrid_scanner] INFO: Discovered 5487 markets, 10974 tokens
+2026-07-05 23:01:31,410 [polymarket-arb.hybrid_scanner] INFO: Phase 2: Selecting markets for WebSocket subscription...
+2026-07-05 23:01:31,440 [polymarket-arb.hybrid_scanner] INFO: Category distribution: sports=734, other=420, crypto=417, politics=347, geopolitics=288, tech=178, economy=98, entertainment=34, weather=27, science=3
+2026-07-05 23:01:31,440 [polymarket-arb.hybrid_scanner] INFO: Subscribing to 200 tokens (100 markets) via WebSocket
+2026-07-05 23:01:31,440 [polymarket-arb.ws] INFO: Registered 200 assets for subscription
+2026-07-05 23:01:31,700 [polymarket-arb.ws] INFO: WS connected!
+2026-07-05 23:01:31,700 [polymarket-arb.ws] INFO: Subscribed to 200 assets
+2026-07-05 23:01:31,941 [polymarket-arb.hybrid_scanner] INFO: Waiting 20s for WebSocket books to populate...
+2026-07-05 23:01:32,947 [polymarket-arb.hybrid_scanner] INFO: Received 200 WebSocket books with data
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO: Selected 24 markets for market making
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Will the US confirm that aliens exist before  | bid=0.0600 ask=0.0700 spread=14.3% vol=$35,326,778
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Will the Iranian regime fall before 2027?     | bid=0.0600 ask=0.0700 spread=14.3% vol=$21,226,761
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Mexico vs. England: Team to Advance           | bid=0.0600 ask=0.0700 spread=14.3% vol=$31,529,798
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Will 2026 be the third-hottest year on record | bid=0.0280 ask=0.0320 spread=12.5% vol=$467,060
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Will 2 Fed rate cuts happen in 2026?          | bid=0.0390 ask=0.0440 spread=11.4% vol=$2,000,717
+2026-07-05 23:01:32,949 [polymarket-arb.mm_paper] INFO:   Putin out as President of Russia by December  | bid=0.0900 ask=0.1000 spread=10.0% vol=$16,092,791
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO:   Will there be no change in Fed interest rates | bid=0.1000 ask=0.1100 spread=9.1% vol=$8,985,554
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO:   Will Bitcoin reach $100,000 by December 31, 2 | bid=0.1000 ask=0.1100 spread=9.1% vol=$2,179,384
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO:   Will OpenAI IPO by December 31 2026?          | bid=0.2000 ask=0.2200 spread=9.1% vol=$797,619
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO:   Hantavirus pandemic in 2026?                  | bid=0.0220 ask=0.0240 spread=8.3% vol=$16,227,235
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: ============================================================
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: MARKET MAKER BOT STARTING
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: Capital: $100,000 | Markets: 30
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: Position size: $1000 | Order: 500 shares
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: Fill probability: 20% per check
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: Scan interval: 1.5s | Queue ahead: 5
+2026-07-05 23:01:32,950 [polymarket-arb.mm_paper] INFO: ============================================================

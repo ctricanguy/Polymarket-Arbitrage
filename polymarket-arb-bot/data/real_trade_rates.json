@@ -1,0 +1,312 @@
+{
+  "collection_time": "2026-07-06T00:11:28.440077",
+  "duration_minutes": 60.26392714977264,
+  "total_trades": 6000,
+  "trades_per_minute": 99.56204787464861,
+  "trades_per_hour": 5973.7228724789165,
+  "unique_markets": 1044,
+  "per_market": {
+    "Bitcoin Up or Down - July 6, 12:00AM-12:05AM ET": {
+      "trade_count": 254,
+      "trades_per_hour": 252.88760160160746,
+      "total_volume": 4295.270040026888,
+      "avg_price": 0.72017775241063,
+      "avg_size": 23.92055767322835,
+      "buy_count": 211,
+      "sell_count": 43,
+      "buy_sell_ratio": 0.8307086614173228
+    },
+    "LoL: Bilibili Gaming vs LYON - Game 1 Winner": {
+      "trade_count": 246,
+      "trades_per_hour": 244.92263777163555,
+      "total_volume": 34766.56462698014,
+      "avg_price": 0.5871220346711381,
+      "avg_size": 215.18885994308943,
+      "buy_count": 195,
+      "sell_count": 51,
+      "buy_sell_ratio": 0.7926829268292683
+    },
+    "LoL: Bilibili Gaming vs LYON (BO5) - Mid-Season Invitational Playoffs": {
+      "trade_count": 229,
+      "trades_per_hour": 227.99708963294532,
+      "total_volume": 12885.97782894733,
+      "avg_price": 0.2354361589039301,
+      "avg_size": 418.304629069869,
+      "buy_count": 195,
+      "sell_count": 34,
+      "buy_sell_ratio": 0.851528384279476
+    },
+    "Bitcoin Up or Down - July 5, 11:45PM-11:50PM ET": {
+      "trade_count": 175,
+      "trades_per_hour": 174.23358378063506,
+      "total_volume": 2050.9854839959394,
+      "avg_price": 0.6348800165765714,
+      "avg_size": 21.027124708571428,
+      "buy_count": 150,
+      "sell_count": 25,
+      "buy_sell_ratio": 0.8571428571428571
+    },
+    "Bitcoin Up or Down - July 5, 11:30PM-11:35PM ET": {
+      "trade_count": 162,
+      "trades_per_hour": 161.29051755693075,
+      "total_volume": 1743.2649200118178,
+      "avg_price": 0.6606946708,
+      "avg_size": 21.27637712962963,
+      "buy_count": 135,
+      "sell_count": 27,
+      "buy_sell_ratio": 0.8333333333333334
+    },
+    "Bitcoin Up or Down - July 5, 11:50PM-11:55PM ET": {
+      "trade_count": 156,
+      "trades_per_hour": 155.31679468445185,
+      "total_volume": 2733.582852090379,
+      "avg_price": 0.5476706404333334,
+      "avg_size": 43.982453544871795,
+      "buy_count": 129,
+      "sell_count": 27,
+      "buy_sell_ratio": 0.8269230769230769
+    },
+    "Bitcoin Up or Down - July 5, 11:25PM-11:30PM ET": {
+      "trade_count": 140,
+      "trades_per_hour": 139.38686702450806,
+      "total_volume": 1464.693438973781,
+      "avg_price": 0.5187532154878571,
+      "avg_size": 22.66437522857143,
+      "buy_count": 115,
+      "sell_count": 25,
+      "buy_sell_ratio": 0.8214285714285714
+    },
+    "Bitcoin Up or Down - July 5, 11:40PM-11:45PM ET": {
+      "trade_count": 140,
+      "trades_per_hour": 139.38686702450806,
+      "total_volume": 4670.157645000656,
+      "avg_price": 0.7392103977307143,
+      "avg_size": 42.63209119285714,
+      "buy_count": 118,
+      "sell_count": 22,
+      "buy_sell_ratio": 0.8428571428571429
+    },
+    "Bitcoin Up or Down - July 5, 11:55PM-12:00AM ET": {
+      "trade_count": 134,
+      "trades_per_hour": 133.41314415202913,
+      "total_volume": 2244.6639479260753,
+      "avg_price": 0.7904425121537313,
+      "avg_size": 40.404585768656716,
+      "buy_count": 115,
+      "sell_count": 19,
+      "buy_sell_ratio": 0.8582089552238806
+    },
+    "Bitcoin Up or Down - July 5, 11:30PM-11:45PM ET": {
+      "trade_count": 131,
+      "trades_per_hour": 130.42628271578968,
+      "total_volume": 1400.0016989962103,
+      "avg_price": 0.5639489208534352,
+      "avg_size": 20.059089702290073,
+      "buy_count": 99,
+      "sell_count": 32,
+      "buy_sell_ratio": 0.7557251908396947
+    },
+    "Bitcoin Up or Down - July 5, 11:10PM-11:15PM ET": {
+      "trade_count": 125,
+      "trades_per_hour": 124.45255984331077,
+      "total_volume": 1257.607297995107,
+      "avg_price": 0.5682211697072,
+      "avg_size": 24.665484224,
+      "buy_count": 106,
+      "sell_count": 19,
+      "buy_sell_ratio": 0.848
+    },
+    "Bitcoin Up or Down - July 5, 11:15PM-11:20PM ET": {
+      "trade_count": 125,
+      "trades_per_hour": 124.45255984331077,
+      "total_volume": 1041.8953509962212,
+      "avg_price": 0.523939086484,
+      "avg_size": 15.834892752,
+      "buy_count": 98,
+      "sell_count": 27,
+      "buy_sell_ratio": 0.784
+    },
+    "Ethereum Up or Down - July 5, 11:30PM-11:45PM ET": {
+      "trade_count": 76,
+      "trades_per_hour": 75.66715638473295,
+      "total_volume": 625.9489730031484,
+      "avg_price": 0.43366675675263155,
+      "avg_size": 15.109324973684211,
+      "buy_count": 61,
+      "sell_count": 15,
+      "buy_sell_ratio": 0.8026315789473685
+    },
+    "Bitcoin Up or Down - July 5, 11:15PM-11:30PM ET": {
+      "trade_count": 75,
+      "trades_per_hour": 74.67153590598646,
+      "total_volume": 927.7680720299118,
+      "avg_price": 0.598495543396,
+      "avg_size": 41.472938893333335,
+      "buy_count": 52,
+      "sell_count": 23,
+      "buy_sell_ratio": 0.6933333333333334
+    },
+    "Will England win on 2026-07-05?": {
+      "trade_count": 70,
+      "trades_per_hour": 69.69343351225403,
+      "total_volume": 27213.579180000015,
+      "avg_price": 0.9990000000000001,
+      "avg_size": 389.15457142857144,
+      "buy_count": 0,
+      "sell_count": 70,
+      "buy_sell_ratio": 0.0
+    },
+    "Bitcoin Up or Down - July 5, 11:05PM-11:10PM ET": {
+      "trade_count": 70,
+      "trades_per_hour": 69.69343351225403,
+      "total_volume": 418.46308399932843,
+      "avg_price": 0.6299437978842857,
+      "avg_size": 20.4146361,
+      "buy_count": 62,
+      "sell_count": 8,
+      "buy_sell_ratio": 0.8857142857142857
+    },
+    "Bitcoin Up or Down - July 5, 11:45PM-12:00AM ET": {
+      "trade_count": 64,
+      "trades_per_hour": 63.719710639775116,
+      "total_volume": 1619.551272996395,
+      "avg_price": 0.6841527001828125,
+      "avg_size": 36.62846409375,
+      "buy_count": 54,
+      "sell_count": 10,
+      "buy_sell_ratio": 0.84375
+    },
+    "Bitcoin Up or Down - July 5, 11:00PM-11:15PM ET": {
+      "trade_count": 58,
+      "trades_per_hour": 57.74598776729619,
+      "total_volume": 913.6487209958423,
+      "avg_price": 0.5941046084965518,
+      "avg_size": 29.75563534482759,
+      "buy_count": 49,
+      "sell_count": 9,
+      "buy_sell_ratio": 0.8448275862068966
+    },
+    "Ethereum Up or Down - July 5, 11:45PM-12:00AM ET": {
+      "trade_count": 48,
+      "trades_per_hour": 47.78978297983134,
+      "total_volume": 517.1096919995687,
+      "avg_price": 0.6278582740499999,
+      "avg_size": 20.310915395833334,
+      "buy_count": 44,
+      "sell_count": 4,
+      "buy_sell_ratio": 0.9166666666666666
+    },
+    "Ethereum Up or Down - July 6, 12:00AM-12:05AM ET": {
+      "trade_count": 48,
+      "trades_per_hour": 47.78978297983134,
+      "total_volume": 362.1676930019926,
+      "avg_price": 0.5396555248770833,
+      "avg_size": 13.507812729166666,
+      "buy_count": 36,
+      "sell_count": 12,
+      "buy_sell_ratio": 0.75
+    },
+    "Ethereum Up or Down - July 5, 11:50PM-11:55PM ET": {
+      "trade_count": 47,
+      "trades_per_hour": 46.79416250108485,
+      "total_volume": 237.25476099452632,
+      "avg_price": 0.5174643310531915,
+      "avg_size": 11.698028914893618,
+      "buy_count": 44,
+      "sell_count": 3,
+      "buy_sell_ratio": 0.9361702127659575
+    },
+    "Ethereum Up or Down - July 5, 11:45PM-11:50PM ET": {
+      "trade_count": 47,
+      "trades_per_hour": 46.79416250108485,
+      "total_volume": 290.31726800069174,
+      "avg_price": 0.812251504144681,
+      "avg_size": 9.060086914893617,
+      "buy_count": 45,
+      "sell_count": 2,
+      "buy_sell_ratio": 0.9574468085106383
+    },
+    "Ethereum Up or Down - July 5, 11:15PM-11:30PM ET": {
+      "trade_count": 41,
+      "trades_per_hour": 40.82043962860593,
+      "total_volume": 347.7689470027497,
+      "avg_price": 0.5424293030121952,
+      "avg_size": 11.386989048780489,
+      "buy_count": 23,
+      "sell_count": 18,
+      "buy_sell_ratio": 0.5609756097560976
+    },
+    "Ethereum Up or Down - July 5, 11:15PM-11:20PM ET": {
+      "trade_count": 38,
+      "trades_per_hour": 37.833578192366474,
+      "total_volume": 603.4088840106043,
+      "avg_price": 0.5006385953078948,
+      "avg_size": 30.65915728947369,
+      "buy_count": 32,
+      "sell_count": 6,
+      "buy_sell_ratio": 0.8421052631578947
+    },
+    "Will England win the 2026 FIFA World Cup?": {
+      "trade_count": 37,
+      "trades_per_hour": 36.837957713619986,
+      "total_volume": 2039.345565994504,
+      "avg_price": 0.1779818369378378,
+      "avg_size": 324.12726040540537,
+      "buy_count": 27,
+      "sell_count": 10,
+      "buy_sell_ratio": 0.7297297297297297
+    },
+    "Bitcoin Up or Down - July 5, 11:35PM-11:40PM ET": {
+      "trade_count": 37,
+      "trades_per_hour": 36.837957713619986,
+      "total_volume": 1041.6989950002671,
+      "avg_price": 0.7032432406513514,
+      "avg_size": 55.10192810810811,
+      "buy_count": 14,
+      "sell_count": 23,
+      "buy_sell_ratio": 0.3783783783783784
+    },
+    "Ethereum Up or Down - July 5, 11:55PM-12:00AM ET": {
+      "trade_count": 37,
+      "trades_per_hour": 36.837957713619986,
+      "total_volume": 199.64874600168122,
+      "avg_price": 0.6634317440054054,
+      "avg_size": 11.897326351351351,
+      "buy_count": 33,
+      "sell_count": 4,
+      "buy_sell_ratio": 0.8918918918918919
+    },
+    "Bitcoin Up or Down - July 5, 11:20PM-11:25PM ET": {
+      "trade_count": 36,
+      "trades_per_hour": 35.842337234873504,
+      "total_volume": 458.78979782594314,
+      "avg_price": 0.4863840492138889,
+      "avg_size": 415.911762,
+      "buy_count": 29,
+      "sell_count": 7,
+      "buy_sell_ratio": 0.8055555555555556
+    },
+    "XRP Up or Down - July 5, 11:30PM-11:45PM ET": {
+      "trade_count": 35,
+      "trades_per_hour": 34.846716756127016,
+      "total_volume": 233.81397900278668,
+      "avg_price": 0.4767442540171428,
+      "avg_size": 12.377991342857143,
+      "buy_count": 35,
+      "sell_count": 0,
+      "buy_sell_ratio": 1.0
+    },
+    "Ethereum Up or Down - July 5, 11:40PM-11:45PM ET": {
+      "trade_count": 35,
+      "trades_per_hour": 34.846716756127016,
+      "total_volume": 403.8541780153248,
+      "avg_price": 0.7865391155057142,
+      "avg_size": 25.59755865714286,
+      "buy_count": 34,
+      "sell_count": 1,
+      "buy_sell_ratio": 0.9714285714285714
+    }
+  },
+  "projected_daily_conservative": 5487.696065900473,
+  "projected_daily_moderate": 10975.392131800945
+}

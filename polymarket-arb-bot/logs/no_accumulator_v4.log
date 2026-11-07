@@ -1,0 +1,518 @@
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: State reset
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: NO-SHARE ACCUMULATOR BOT STARTING
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: Capital: $100,000.00 | Position budget: $1000.0
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: NO price range: 0.01¢ - 0.05¢
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: Max positions: 50 | Scan interval: 15s
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: Scanning for cheap NO markets...
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: Found 500 active markets from Gamma API
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO: Found 74 cheap NO markets (1-5¢)
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Colombia win the 2026 FIFA World Cup?         | NO=0.033 YES=0.968 | vol=$96,438,805
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Iran agrees to surrender enriched uranium stockpil | NO=0.015 YES=0.985 | vol=$952,296
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Trump be impeached by end of 2026?            | NO=0.036 YES=0.964 | vol=$957,175
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Detroit Pistons win the 2027 NBA Finals?      | NO=0.025 YES=0.975 | vol=$96,027
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will the Green Bay Packers win the 2027 NFL league | NO=0.027 YES=0.973 | vol=$999,017
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will the Indianapolis Colts win the 2027 NFL leagu | NO=0.013 YES=0.988 | vol=$967,145
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will the Philadelphia Eagles win the 2027 NFL leag | NO=0.033 YES=0.968 | vol=$945,466
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will the Pittsburgh Steelers win the 2027 NFL leag | NO=0.011 YES=0.990 | vol=$943,985
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will the Detroit Lions win the 2027 NFL league cha | NO=0.039 YES=0.961 | vol=$938,323
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $120,000 by December 31, 2026?  | NO=0.045 YES=0.955 | vol=$991,890
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Cristiano Ronaldo win the 2026 Ballon d'Or?   | NO=0.016 YES=0.984 | vol=$97,460
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Joao Fonseca win the 2026 Men's US Open?      | NO=0.021 YES=0.979 | vol=$99,710
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $140,000 by December 31, 2026?  | NO=0.037 YES=0.963 | vol=$945,643
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Atlético Madrid win the 2026-27 UEFA Champion | NO=0.037 YES=0.963 | vol=$998
+2026-07-06 02:50:54 [polymarket-arb.no_accumulator] INFO:   Will Juan Soto hit 50 or more home runs during the | NO=0.011 YES=0.989 | vol=$946
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Colombia win the 2026 FIFA World Cup? |  30000 sh @ 0.0330 (γ=0.033 slip=+1.5%) = $  990.00 | vol24=$1834698 | 1hChg=+0.0000
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (95% prob): Iran agrees to surrender enriched uraniu
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Trump be impeached by end of 2026?    | 27397.0 sh @ 0.0696 (γ=0.036 slip=+90.8%) = $ 1907.59 | vol24=$13374 | 1hChg=+0.0000
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Detroit Pistons win the 2027 NBA Fina | 30000.0 sh @ 0.0346 (γ=0.025 slip=+35.7%) = $ 1038.44 | vol24=$10395 | 1hChg=+0.0000
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Green Bay Packers win the 2027 NF | 30000.0 sh @ 0.0393 (γ=0.027 slip=+45.5%) = $ 1178.74 | vol24=$6045 | 1hChg=+0.0000
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Indianapolis Colts win the 2027 N | 30000.0 sh @ 0.0135 (γ=0.013 slip=+7.9%) = $  404.45 | vol24=$4839 | 1hChg=+0.0000
+2026-07-06 02:50:55 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (95% prob): Will the Philadelphia Eagles win the 202
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Pittsburgh Steelers win the 2027  | 30000.0 sh @ 0.0139 (γ=0.011 slip=+32.6%) = $  417.54 | vol24=$4133 | 1hChg=+0.0000
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Detroit Lions win the 2027 NFL le | 25641.0 sh @ 0.0433 (γ=0.039 slip=+11.1%) = $ 1111.29 | vol24=$3260 | 1hChg=+0.0000
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Bitcoin reach $120,000 by December 31 | 22222.0 sh @ 0.0620 (γ=0.045 slip=+37.8%) = $ 1378.04 | vol24=$2879 | 1hChg=-0.0100
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1543 too far from Gamma 0.0160 (864% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6672 too far from Gamma 0.0210 (3077% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:50:56 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4269 too far from Gamma 0.0115 (3612% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7851 too far from Gamma 0.0490 (1502% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1147 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7580 too far from Gamma 0.0180 (4111% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:50:57 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7065 too far from Gamma 0.0160 (4316% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9657 too far from Gamma 0.0465 (1977% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8414 too far from Gamma 0.0160 (5159% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6918 too far from Gamma 0.0130 (5221% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:50:58 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6569 too far from Gamma 0.0345 (1804% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7634 too far from Gamma 0.0230 (3219% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0382 too far from Gamma 0.0170 (124% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7577 too far from Gamma 0.0260 (2814% slippage): Will Bank of America fail by end of
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8613 too far from Gamma 0.0100 (8513% slippage): Will monthly inflation increase by 
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3488 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:50:59 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7103 too far from Gamma 0.0275 (2483% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9184 too far from Gamma 0.0425 (2061% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5481 too far from Gamma 0.0165 (3222% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4674 too far from Gamma 0.0215 (2074% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:51:00 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6266 too far from Gamma 0.0235 (2566% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6986 too far from Gamma 0.0175 (3892% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8694 too far from Gamma 0.0325 (2575% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (35% prob): Will Detroit Tigers win the 2026 America
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7407 too far from Gamma 0.0115 (6341% slippage): Will André Luís win the Governor of
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:51:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7214 too far from Gamma 0.0225 (3106% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1369 too far from Gamma 0.0380 (260% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:51:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6915 too far from Gamma 0.0105 (6485% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8325 too far from Gamma 0.0220 (3684% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7050 too far from Gamma 0.0245 (2777% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:51:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6392 too far from Gamma 0.0240 (2563% slippage): Will the US strike 13 countries in 
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8646 too far from Gamma 0.0125 (6817% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8515 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6646 too far from Gamma 0.0160 (4054% slippage): Will the Democratic Party win the A
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:51:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:51:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6435 too far from Gamma 0.0450 (1330% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:51:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:51:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6376 too far from Gamma 0.0180 (3442% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:51:06 [polymarket-arb.no_accumulator] INFO: Bought 8 new positions (8/50)
+2026-07-06 02:51:06 [polymarket-arb.no_accumulator] INFO: Updated 1 positions with real Gamma prices
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.0h (0.00d)
+======================================================================
+Portfolio Value:  $   99,982.76
+Cash:             $   91,573.91
+Invested:          $    8,426.09
+Realized P&L:      $       +0.00
+Unrealized P&L:    $      -17.24
+Total P&L:         $      -17.24
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    8
+Daily Rate:        $ -123,225.33/day
+
+By Category:
+  sports      : $   5,140 invested |  6 positions | unreal=$  -16.20
+  politics    : $   1,908 invested |  1 positions | unreal=$   -0.76
+  crypto      : $   1,378 invested |  1 positions | unreal=$   -0.27
+
+Top Positions (by unrealized P&L):
+  Will the Indianapolis Colts win the 2027 NFL  | 30000.0sh @ 0.013→0.013 | $   +0.55
+  Will the Green Bay Packers win the 2027 NFL l | 30000.0sh @ 0.039→0.039 | $   +0.26
+  Will Bitcoin reach $120,000 by December 31, 2 | 22222.0sh @ 0.062→0.062 | $   -0.27
+  Will Detroit Pistons win the 2027 NBA Finals? | 30000.0sh @ 0.035→0.035 | $   -0.44
+  Will the Pittsburgh Steelers win the 2027 NFL | 30000.0sh @ 0.014→0.014 | $   -0.54
+  Will Trump be impeached by end of 2026?       | 27397.0sh @ 0.070→0.070 | $   -0.76
+  Will the Detroit Lions win the 2027 NFL leagu | 25641.0sh @ 0.043→0.043 | $   -1.04
+  Will Colombia win the 2026 FIFA World Cup?    |  30000sh @ 0.033→0.033 | $  -15.00
+======================================================================
+
+2026-07-06 02:51:06 [polymarket-arb.no_accumulator] INFO: Portfolio: $99,982.76 | P&L: $-17.24 | Positions: 8 | Realized: $+0.00 | Unrealized: $-17.24
+2026-07-06 02:51:16 [polymarket-arb.no_accumulator] INFO:   BUY NO: Iran agrees to surrender enriched uranium  | 30000.0 sh @ 0.0170 (γ=0.015 slip=+9.6%) = $  509.87 | vol24=$14296 | 1hChg=+0.0000
+2026-07-06 02:51:16 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Philadelphia Eagles win the 2027  | 30000.0 sh @ 0.0485 (γ=0.033 slip=+49.3%) = $ 1456.15 | vol24=$4278 | 1hChg=+0.0000
+2026-07-06 02:51:16 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1543 too far from Gamma 0.0160 (864% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:51:16 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6700 too far from Gamma 0.0210 (3091% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7851 too far from Gamma 0.0490 (1502% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1147 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:51:17 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7580 too far from Gamma 0.0180 (4111% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7065 too far from Gamma 0.0160 (4316% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9220 too far from Gamma 0.0465 (1883% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8448 too far from Gamma 0.0160 (5180% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9830 too far from Gamma 0.0485 (1927% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:51:18 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6916 too far from Gamma 0.0130 (5220% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6522 too far from Gamma 0.0345 (1790% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7545 too far from Gamma 0.0230 (3180% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0383 too far from Gamma 0.0170 (125% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:51:19 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8590 too far from Gamma 0.0100 (8490% slippage): Will monthly inflation increase by 
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3488 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7111 too far from Gamma 0.0275 (2486% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9195 too far from Gamma 0.0425 (2063% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5481 too far from Gamma 0.0165 (3222% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4674 too far from Gamma 0.0215 (2074% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:51:20 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6266 too far from Gamma 0.0235 (2567% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6986 too far from Gamma 0.0175 (3892% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8694 too far from Gamma 0.0325 (2575% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (35% prob): Will Detroit Tigers win the 2026 America
+2026-07-06 02:51:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7407 too far from Gamma 0.0115 (6341% slippage): Will André Luís win the Governor of
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7217 too far from Gamma 0.0225 (3108% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:51:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6862 too far from Gamma 0.0105 (6435% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8327 too far from Gamma 0.0220 (3685% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:51:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7048 too far from Gamma 0.0245 (2777% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:51:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:51:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:51:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6357 too far from Gamma 0.0240 (2549% slippage): Will the US strike 13 countries in 
+2026-07-06 02:51:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:51:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8705 too far from Gamma 0.0125 (6864% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:51:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8515 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:51:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6693 too far from Gamma 0.0160 (4083% slippage): Will the Democratic Party win the A
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:51:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:51:31 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6234 too far from Gamma 0.0450 (1285% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:51:31 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:51:31 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6360 too far from Gamma 0.0180 (3433% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:51:31 [polymarket-arb.no_accumulator] INFO: Bought 2 new positions (10/50)
+2026-07-06 02:51:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1543 too far from Gamma 0.0160 (864% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:51:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6651 too far from Gamma 0.0210 (3067% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:51:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7846 too far from Gamma 0.0490 (1501% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1147 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7712 too far from Gamma 0.0180 (4184% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:51:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7065 too far from Gamma 0.0160 (4316% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9165 too far from Gamma 0.0465 (1871% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8571 too far from Gamma 0.0160 (5257% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6916 too far from Gamma 0.0130 (5220% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:51:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6522 too far from Gamma 0.0345 (1790% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7461 too far from Gamma 0.0230 (3144% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0383 too far from Gamma 0.0170 (125% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8613 too far from Gamma 0.0100 (8513% slippage): Will monthly inflation increase by 
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3488 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:51:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7111 too far from Gamma 0.0275 (2486% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9192 too far from Gamma 0.0425 (2063% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5466 too far from Gamma 0.0165 (3213% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4621 too far from Gamma 0.0215 (2049% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:51:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6266 too far from Gamma 0.0235 (2567% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6986 too far from Gamma 0.0175 (3892% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8694 too far from Gamma 0.0325 (2575% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Detroit Tigers win the 2026 American  | 30000.0 sh @ 0.0494 (γ=0.029 slip=+67.6%) = $ 1482.84 | vol24=$0 | 1hChg=+0.0000
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7407 too far from Gamma 0.0115 (6341% slippage): Will André Luís win the Governor of
+2026-07-06 02:51:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7214 too far from Gamma 0.0225 (3106% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:51:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6862 too far from Gamma 0.0105 (6435% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8327 too far from Gamma 0.0220 (3685% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7048 too far from Gamma 0.0245 (2777% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:51:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6363 too far from Gamma 0.0240 (2551% slippage): Will the US strike 13 countries in 
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8705 too far from Gamma 0.0125 (6864% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8515 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6569 too far from Gamma 0.0160 (4006% slippage): Will the Democratic Party win the A
+2026-07-06 02:51:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:51:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:51:51 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6234 too far from Gamma 0.0450 (1285% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:51:51 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:51:51 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6360 too far from Gamma 0.0180 (3433% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:51:51 [polymarket-arb.no_accumulator] INFO: Bought 1 new positions (11/50)
+2026-07-06 02:52:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1543 too far from Gamma 0.0160 (865% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:52:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0210 (3068% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:52:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7903 too far from Gamma 0.0490 (1513% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1147 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7575 too far from Gamma 0.0180 (4108% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:52:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7065 too far from Gamma 0.0160 (4316% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9151 too far from Gamma 0.0465 (1868% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8439 too far from Gamma 0.0160 (5174% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6916 too far from Gamma 0.0130 (5220% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:52:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6577 too far from Gamma 0.0345 (1806% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7594 too far from Gamma 0.0230 (3202% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0383 too far from Gamma 0.0170 (125% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8278 too far from Gamma 0.0100 (8178% slippage): Will monthly inflation increase by 
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3488 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:52:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7111 too far from Gamma 0.0275 (2486% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9179 too far from Gamma 0.0425 (2060% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5466 too far from Gamma 0.0165 (3213% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4595 too far from Gamma 0.0215 (2037% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:52:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6256 too far from Gamma 0.0235 (2562% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6985 too far from Gamma 0.0175 (3891% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8694 too far from Gamma 0.0325 (2575% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7407 too far from Gamma 0.0115 (6341% slippage): Will André Luís win the Governor of
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:52:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7290 too far from Gamma 0.0225 (3140% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:52:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6862 too far from Gamma 0.0105 (6435% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8327 too far from Gamma 0.0220 (3685% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7038 too far from Gamma 0.0245 (2773% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:52:08 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6360 too far from Gamma 0.0240 (2550% slippage): Will the US strike 13 countries in 
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8701 too far from Gamma 0.0125 (6861% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8515 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6570 too far from Gamma 0.0160 (4006% slippage): Will the Democratic Party win the A
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:09 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6234 too far from Gamma 0.0450 (1285% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:52:10 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:52:11 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6368 too far from Gamma 0.0180 (3438% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:52:11 [polymarket-arb.no_accumulator] INFO: Bought 0 new positions (11/50)
+2026-07-06 02:52:11 [polymarket-arb.no_accumulator] INFO: Updated 1 positions with real Gamma prices
+2026-07-06 02:52:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1541 too far from Gamma 0.0160 (863% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:52:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6647 too far from Gamma 0.0210 (3065% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:52:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:52:21 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7845 too far from Gamma 0.0490 (1501% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1147 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7394 too far from Gamma 0.0180 (4008% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7065 too far from Gamma 0.0160 (4316% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:52:22 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9227 too far from Gamma 0.0465 (1884% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8441 too far from Gamma 0.0160 (5175% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6934 too far from Gamma 0.0130 (5234% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:52:23 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6577 too far from Gamma 0.0345 (1806% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7626 too far from Gamma 0.0230 (3216% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0382 too far from Gamma 0.0170 (124% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8621 too far from Gamma 0.0100 (8521% slippage): Will monthly inflation increase by 
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3488 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:52:24 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7138 too far from Gamma 0.0275 (2496% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9190 too far from Gamma 0.0425 (2062% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5470 too far from Gamma 0.0165 (3215% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4595 too far from Gamma 0.0215 (2037% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:52:25 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6256 too far from Gamma 0.0235 (2562% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6984 too far from Gamma 0.0175 (3891% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8692 too far from Gamma 0.0325 (2574% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7319 too far from Gamma 0.0115 (6264% slippage): Will André Luís win the Governor of
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:52:26 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7217 too far from Gamma 0.0225 (3108% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:52:27 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6862 too far from Gamma 0.0105 (6435% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8326 too far from Gamma 0.0220 (3685% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7038 too far from Gamma 0.0245 (2773% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:52:28 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6367 too far from Gamma 0.0240 (2553% slippage): Will the US strike 13 countries in 
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8334 too far from Gamma 0.0125 (6567% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8515 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6562 too far from Gamma 0.0160 (4001% slippage): Will the Democratic Party win the A
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:29 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7913 too far from Gamma 0.0380 (1982% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6434 too far from Gamma 0.0450 (1330% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:52:30 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:52:31 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6368 too far from Gamma 0.0180 (3438% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:52:31 [polymarket-arb.no_accumulator] INFO: Bought 0 new positions (11/50)
+2026-07-06 02:52:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1541 too far from Gamma 0.0160 (863% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:52:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6644 too far from Gamma 0.0210 (3064% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:52:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:52:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0969 too far from Gamma 0.0375 (158% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:52:41 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7845 too far from Gamma 0.0490 (1501% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1157 too far from Gamma 0.0285 (306% slippage): Will there be no Head of State in I
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7580 too far from Gamma 0.0180 (4111% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7080 too far from Gamma 0.0160 (4325% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9256 too far from Gamma 0.0465 (1890% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:52:42 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8475 too far from Gamma 0.0160 (5197% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6914 too far from Gamma 0.0130 (5218% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6577 too far from Gamma 0.0345 (1806% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:52:43 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7552 too far from Gamma 0.0230 (3183% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0383 too far from Gamma 0.0170 (125% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8616 too far from Gamma 0.0100 (8516% slippage): Will monthly inflation increase by 
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3492 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7110 too far from Gamma 0.0275 (2485% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9178 too far from Gamma 0.0425 (2060% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:52:44 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5481 too far from Gamma 0.0165 (3222% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6654 too far from Gamma 0.0100 (6554% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4595 too far from Gamma 0.0215 (2037% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4959 too far from Gamma 0.0190 (2510% slippage): Will the Republican Party win the G
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6256 too far from Gamma 0.0235 (2562% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:52:45 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6984 too far from Gamma 0.0175 (3891% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8692 too far from Gamma 0.0325 (2574% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7286 too far from Gamma 0.0115 (6235% slippage): Will André Luís win the Governor of
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0225 (2370% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:52:46 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7214 too far from Gamma 0.0225 (3106% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0160 (4255% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6862 too far from Gamma 0.0105 (6435% slippage): Will Carmel Sepuloni be the next Pr
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9228 too far from Gamma 0.0280 (3196% slippage): Jerome Powell federally charged by 
+2026-07-06 02:52:47 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8326 too far from Gamma 0.0220 (3685% slippage): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7193 too far from Gamma 0.0245 (2836% slippage): Will Morgan Ensberg be the next Red
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5777 too far from Gamma 0.0355 (1527% slippage): Will the Republican Party win the W
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7832 too far from Gamma 0.0270 (2801% slippage): Will the number of Democratic House
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6364 too far from Gamma 0.0240 (2552% slippage): Will the US strike 13 countries in 
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5225 too far from Gamma 0.0480 (989% slippage): Will the Democratic Party win the C
+2026-07-06 02:52:48 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8701 too far from Gamma 0.0125 (6861% slippage): Will Min Woo Lee win the 2026 TOUR 
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8514 too far from Gamma 0.0480 (1674% slippage): Will Aurelien Tchouameni join Paris
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6562 too far from Gamma 0.0160 (4001% slippage): Will the Democratic Party win the A
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5704 too far from Gamma 0.0465 (1127% slippage): Will the Democratic Party win the M
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7928 too far from Gamma 0.0380 (1986% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7928 too far from Gamma 0.0380 (1986% slippage): Will an independent win the Rhode I
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6470 too far from Gamma 0.0395 (1538% slippage): Will the Republican Party win the M
+2026-07-06 02:52:49 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9682 too far from Gamma 0.0165 (5768% slippage): Will Falcons make a roster change b
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5968 too far from Gamma 0.0400 (1392% slippage): Will AZ win the 2026-27 UEFA Europa
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5269 too far from Gamma 0.0240 (2095% slippage): Romanian parliament dissolved by Ju
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6434 too far from Gamma 0.0450 (1330% slippage): Will the New York Mets clinch a spo
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7211 too far from Gamma 0.0325 (2119% slippage): Will the Democrats win the Tennesse
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6376 too far from Gamma 0.0180 (3442% slippage): Will Dune: Messiah have the best do
+2026-07-06 02:52:50 [polymarket-arb.no_accumulator] INFO: Bought 0 new positions (11/50)
+2026-07-06 02:53:00 [polymarket-arb.no_accumulator] INFO: Scanning for cheap NO markets...
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO: Found 500 active markets from Gamma API
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO: Found 63 cheap NO markets (1-5¢)
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Cristiano Ronaldo win the 2026 Ballon d'Or?   | NO=0.016 YES=0.984 | vol=$97,460
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Joao Fonseca win the 2026 Men's US Open?      | NO=0.021 YES=0.979 | vol=$99,710
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $140,000 by December 31, 2026?  | NO=0.037 YES=0.963 | vol=$945,643
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Atlético Madrid win the 2026-27 UEFA Champion | NO=0.037 YES=0.963 | vol=$998
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Juan Soto hit 50 or more home runs during the | NO=0.011 YES=0.989 | vol=$946
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Pacifica FDV above $2B one day after launch?       | NO=0.049 YES=0.951 | vol=$9,932
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will the Democratic Party win the MD-02 House seat | NO=0.050 YES=0.950 | vol=$9,839
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will there be no Head of State in Iran end of 2026 | NO=0.029 YES=0.972 | vol=$990,101
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will MetaMask launch a token by September 30, 2026 | NO=0.018 YES=0.982 | vol=$982,084
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will John E. Sununu be the Republican nominee for  | NO=0.015 YES=0.985 | vol=$9,633
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will the next Google Gemini Pro model be released  | NO=0.046 YES=0.954 | vol=$965
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Donald Trump post 180-199 Truth Social posts  | NO=0.046 YES=0.954 | vol=$97
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Tynan Lawrence win the 2026-27 Calder Trophy? | NO=0.040 YES=0.960 | vol=$96
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Anysphere (Cursor) IPO before 2027?                | NO=0.016 YES=0.984 | vol=$99,847
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   Will Austin Reaves play for the Brooklyn Nets in 2 | NO=0.049 YES=0.952 | vol=$977
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1541 too far from Gamma 0.0160 (863% slippage): Will Cristiano Ronaldo win the 2026
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6634 too far from Gamma 0.0210 (3059% slippage): Will Joao Fonseca win the 2026 Men'
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1309 too far from Gamma 0.0375 (249% slippage): Will Bitcoin reach $140,000 by Dece
+2026-07-06 02:53:01 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0972 too far from Gamma 0.0370 (163% slippage): Will Atlético Madrid win the 2026-2
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4260 too far from Gamma 0.0115 (3605% slippage): Will Juan Soto hit 50 or more home 
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7845 too far from Gamma 0.0490 (1501% slippage): Pacifica FDV above $2B one day afte
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7135 too far from Gamma 0.0500 (1327% slippage): Will the Democratic Party win the M
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1145 too far from Gamma 0.0285 (302% slippage): Will there be no Head of State in I
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7316 too far from Gamma 0.0180 (3964% slippage): Will MetaMask launch a token by Sep
+2026-07-06 02:53:02 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7076 too far from Gamma 0.0155 (4465% slippage): Will John E. Sununu be the Republic
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8596 too far from Gamma 0.0465 (1749% slippage): Will the next Google Gemini Pro mod
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9254 too far from Gamma 0.0465 (1890% slippage): Will Donald Trump post 180-199 Trut
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5899 too far from Gamma 0.0400 (1375% slippage): Will Tynan Lawrence win the 2026-27
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8418 too far from Gamma 0.0160 (5161% slippage): Anysphere (Cursor) IPO before 2027?
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9809 too far from Gamma 0.0485 (1922% slippage): Will Austin Reaves play for the Bro
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6914 too far from Gamma 0.0130 (5218% slippage): Will Phil Scott win the 2026 Vermon
+2026-07-06 02:53:03 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9234 too far from Gamma 0.0170 (5332% slippage): Will Cristiano Ronaldo win the Bron
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6565 too far from Gamma 0.0365 (1699% slippage): Will Josh Hokit be the UFC Heavywei
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7490 too far from Gamma 0.0230 (3157% slippage): Will Merab Dvalishvili fight Umar N
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.0382 too far from Gamma 0.0170 (125% slippage): SCOTUS accepts sports event contrac
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7561 too far from Gamma 0.0260 (2808% slippage): Will Bank of America fail by end of
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8613 too far from Gamma 0.0100 (8513% slippage): Will monthly inflation increase by 
+2026-07-06 02:53:04 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.3492 too far from Gamma 0.0500 (598% slippage): Will New York Giants win the 2027 N
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7110 too far from Gamma 0.0275 (2485% slippage): Will Marsha Blackburn win the 2026 
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9181 too far from Gamma 0.0425 (2060% slippage): Justin & Hailey Bieber split in 202
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5466 too far from Gamma 0.0165 (3213% slippage): Will Michelle Bolsonaro finish in s
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6672 too far from Gamma 0.0100 (6572% slippage): Will Austin Reaves play for the Cle
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4649 too far from Gamma 0.0215 (2062% slippage): Will Steven Kwan win the 2026 AL Pl
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4917 too far from Gamma 0.0190 (2488% slippage): Will the Republican Party win the G
+2026-07-06 02:53:05 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.9483 too far from Gamma 0.0325 (2818% slippage): Will Canada’s 2026 inflation be les
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6256 too far from Gamma 0.0235 (2562% slippage): Will Trump sell 2.5k-5k Gold Cards 
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6984 too far from Gamma 0.0175 (3891% slippage): Will Baker Mayfield win the 2026 NF
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.8692 too far from Gamma 0.0325 (2574% slippage): Will JP Morgan (JPM) Q2 investment 
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7423 too far from Gamma 0.0115 (6355% slippage): Will André Luís win the Governor of
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7383 too far from Gamma 0.0450 (1541% slippage): Will the Fed’s lower bound reach 1.
+2026-07-06 02:53:06 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7186 too far from Gamma 0.0370 (1842% slippage): Ventuals FDV above $300M one day af
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.5557 too far from Gamma 0.0215 (2485% slippage): Will Nick Kurtz hit the most home r
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6935 too far from Gamma 0.0455 (1424% slippage): Will Manuel Valls be on the ballot 
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.4793 too far from Gamma 0.0450 (965% slippage): Will TSG Hoffenheim win the 2026-27
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.7265 too far from Gamma 0.0225 (3129% slippage): Will Michel Barnier advance to the 
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6967 too far from Gamma 0.0165 (4123% slippage): Will Élisabeth Borne be on the ball
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.1349 too far from Gamma 0.0380 (255% slippage): Will Elon Musk tweet "Hyperliquid" 
+2026-07-06 02:53:07 [polymarket-arb.no_accumulator] INFO:   SKIP: Fill price 0.6713 too far from Gamma 0.0315 (2031% slippage): Will Jack Reed be the Democratic no

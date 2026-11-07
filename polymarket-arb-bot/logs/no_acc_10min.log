@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+    with open('/home/star/polymarket-arb-bot/data/no_accumulator/state.json') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/star/polymarket-arb-bot/data/no_accumulator/state.json'

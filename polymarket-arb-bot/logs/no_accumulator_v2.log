@@ -1,0 +1,191 @@
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: State reset
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: NO-SHARE ACCUMULATOR BOT STARTING
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: Capital: $100,000.00 | Position budget: $1000.0
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: NO price range: 0.01¢ - 0.05¢
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: Max positions: 50 | Scan interval: 15s
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: ============================================================
+2026-07-06 02:31:55 [polymarket-arb.no_accumulator] INFO: Scanning for cheap NO markets...
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO: Found 500 active markets from Gamma API
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO: Found 72 cheap NO markets (1-5¢)
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will Colombia win the 2026 FIFA World Cup?         | NO=0.033 YES=0.968 | vol=$96,424,932
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will the Green Bay Packers win the 2027 NFL league | NO=0.027 YES=0.973 | vol=$998,918
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $120,000 by December 31, 2026?  | NO=0.045 YES=0.955 | vol=$991,890
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will there be no Head of State in Iran end of 2026 | NO=0.029 YES=0.972 | vol=$990,101
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will MetaMask launch a token by September 30, 2026 | NO=0.018 YES=0.982 | vol=$982,084
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will the Indianapolis Colts win the 2027 NFL leagu | NO=0.013 YES=0.988 | vol=$967,145
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will Trump be impeached by end of 2026?            | NO=0.036 YES=0.964 | vol=$957,175
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Iran agrees to surrender enriched uranium stockpil | NO=0.015 YES=0.985 | vol=$951,982
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will Bitcoin reach $140,000 by December 31, 2026?  | NO=0.037 YES=0.963 | vol=$945,643
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will the Philadelphia Eagles win the 2027 NFL leag | NO=0.033 YES=0.968 | vol=$945,442
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SCOTUS accepts sports event contract case by July  | NO=0.017 YES=0.983 | vol=$944,504
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will the Pittsburgh Steelers win the 2027 NFL leag | NO=0.011 YES=0.990 | vol=$943,946
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will the Detroit Lions win the 2027 NFL league cha | NO=0.039 YES=0.961 | vol=$938,272
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Anysphere (Cursor) IPO before 2027?                | NO=0.016 YES=0.984 | vol=$99,847
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   Will Joao Fonseca win the 2026 Men's US Open?      | NO=0.021 YES=0.979 | vol=$99,710
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Colombia win the 2026 FIFA World Cup?    |  30000 shares @ 0.034 = $ 1005.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Green Bay Packers win the 2027 
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Bitcoin reach $120,000 by December 31, 2 |  22222 shares @ 0.046 = $ 1022.21 | crypto
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will there be no Head of State in Iran end of |  30000 shares @ 0.030 = $  885.00 | geopolitics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will MetaMask launch a token by Septembe
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Indianapolis Colts win the 2027 NFL  |  30000 shares @ 0.014 = $  405.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Trump be impeached by end of 2026?
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Iran agrees to surrender enriched uranium sto |  30000 shares @ 0.017 = $  495.00 | business
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Bitcoin reach $140,000 by December 31, 2 |  26666 shares @ 0.038 = $ 1026.64 | crypto
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Philadelphia Eagles win the 2027 NFL |  30000 shares @ 0.034 = $ 1005.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: SCOTUS accepts sports event contract case by  |  30000 shares @ 0.018 = $  540.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Pittsburgh Steelers win the 2027 NFL |  30000 shares @ 0.011 = $  345.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the Detroit Lions win the 2027 NFL 
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Anysphere (Cursor) IPO before 2027?           |  30000 shares @ 0.017 = $  510.00 | business
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Joao Fonseca win the 2026 Men's US Open? |  30000 shares @ 0.022 = $  660.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Baker Mayfield win the 2026 NFL MVP
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Michelle Bolsonaro finish in second
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Detroit Tigers win the 2026 American Lea |  30000 shares @ 0.030 = $  915.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Cristiano Ronaldo win the 2026 Ball
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the US strike 13 countries in 2026?      |  30000 shares @ 0.025 = $  750.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Min Woo Lee win the 2026 TOUR Championsh |  30000 shares @ 0.014 = $  405.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Detroit Pistons win the 2027 NBA Finals? |  30000 shares @ 0.026 = $  795.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Romanian parliament dissolved by July 31?     |  30000 shares @ 0.025 = $  750.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Dune: Messiah have the best domestic ope |  30000 shares @ 0.018 = $  540.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Republican Party win the GA-06 House |  30000 shares @ 0.019 = $  585.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Marsha Blackburn win the 2026 Tennessee  |  30000 shares @ 0.029 = $  855.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Pacifica FDV above $2B one day after launch?  |  20408 shares @ 0.050 = $ 1020.40 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Trump sell 2.5k-5k Gold Cards in 20
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will JP Morgan (JPM) Q2 investment banking fe |  30000 shares @ 0.033 = $  975.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the MD-02 House |  20000 shares @ 0.051 = $ 1020.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Fed’s lower bound reach 1.75% or low |  22222 shares @ 0.046 = $ 1022.21 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Ventuals FDV above $300M one day after l
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will New York Giants win the 2027 NFL NFC Cha |  20000 shares @ 0.051 = $ 1020.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Elon Musk tweet "Hyperliquid" by July 31 |  26315 shares @ 0.039 = $ 1026.29 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Jack Reed be the Democratic nominee
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will John E. Sununu be the Republican nominee |  30000 shares @ 0.017 = $  510.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Republican Party win the WA-01 House |  28169 shares @ 0.036 = $ 1028.17 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the CA-17 House |  20833 shares @ 0.049 = $ 1020.82 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the AR-01 House |  30000 shares @ 0.018 = $  525.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Justin & Hailey Bieber split in 2026?
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democratic Party win the MA-07 House |  20833 shares @ 0.049 = $ 1020.82 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Phil Scott win the 2026 Vermont Governor |  30000 shares @ 0.014 = $  420.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Republican Party win the MA-08 House |  25316 shares @ 0.041 = $ 1025.30 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Falcons make a roster change before Augu |  30000 shares @ 0.018 = $  525.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the Democrats win the Tennessee Senate r |  30000 shares @ 0.033 = $  975.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Atlético Madrid win the 2026-27 UEFA Cha |  27397 shares @ 0.037 = $ 1027.39 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Steven Kwan win the 2026 AL Platinum Glo |  30000 shares @ 0.022 = $  675.00 | geopolitics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Canada’s 2026 inflation be less than 1.0 |  30000 shares @ 0.034 = $ 1005.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will André Luís win the Governor of Maranhão  |  30000 shares @ 0.013 = $  375.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Austin Reaves play for the Brooklyn Nets |  20618 shares @ 0.050 = $ 1020.59 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Nick Kurtz hit the most home runs d
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Manuel Valls be on the ballot for the 20 |  21978 shares @ 0.046 = $ 1021.98 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Michel Barnier advance to the second rou |  30000 shares @ 0.023 = $  690.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Élisabeth Borne be on the ballot for the |  30000 shares @ 0.015 = $  465.00 | politics
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Jerome Powell federally charged by December 3 |  30000 shares @ 0.029 = $  870.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will Bo Nix win the 2026 NFL MVP?
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Cristiano Ronaldo win the Bronze Boot at |  30000 shares @ 0.019 = $  585.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will the next Google Gemini Pro model be
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the number of Democratic House members w |  30000 shares @ 0.028 = $  825.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Merab Dvalishvili fight Umar Nurmagomedo |  30000 shares @ 0.023 = $  690.00 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   SIM: Order not filled (illiquid market): Will an independent win the Rhode Island
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will monthly inflation increase by 0.2% in Ju |  30000 shares @ 0.011 = $  330.00 | sports
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will the New York Mets clinch a spot in the 2 |  22222 shares @ 0.046 = $ 1022.21 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Bank of America fail by end of 2026?     |  30000 shares @ 0.027 = $  810.00 | tech
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO:   BUY NO: Will Josh Hokit be the UFC Heavyweight Champi |  23809 shares @ 0.043 = $ 1023.79 | other
+2026-07-06 02:31:56 [polymarket-arb.no_accumulator] INFO: Bought 50 new positions (50/50)
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.0h (0.00d)
+======================================================================
+Portfolio Value:  $  100,000.00
+Cash:             $   60,936.20
+Invested:          $   39,063.80
+Realized P&L:      $       +0.00
+Unrealized P&L:    $       +0.00
+Total P&L:         $       +0.00
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    50
+Daily Rate:        $       +3.71/day
+
+By Category:
+  other       : $  22,778 invested | 27 positions | unreal=$   +0.00
+  sports      : $   6,495 invested |  9 positions | unreal=$   +0.00
+  politics    : $   4,367 invested |  7 positions | unreal=$   +0.00
+  crypto      : $   2,049 invested |  2 positions | unreal=$   +0.00
+  geopolitics : $   1,560 invested |  2 positions | unreal=$   +0.00
+  business    : $   1,005 invested |  2 positions | unreal=$   +0.00
+  tech        : $     810 invested |  1 positions | unreal=$   +0.00
+
+Top Positions (by unrealized P&L):
+  Will Josh Hokit be the UFC Heavyweight Champi |  23809sh @ 0.043→0.043 | $   +0.00
+  Will the New York Mets clinch a spot in the 2 |  22222sh @ 0.046→0.046 | $   +0.00
+  Will Manuel Valls be on the ballot for the 20 |  21978sh @ 0.046→0.046 | $   +0.00
+  Will Austin Reaves play for the Brooklyn Nets |  20618sh @ 0.050→0.050 | $   +0.00
+  Will Bank of America fail by end of 2026?     |  30000sh @ 0.027→0.027 | $   +0.00
+  Jerome Powell federally charged by December 3 |  30000sh @ 0.029→0.029 | $   +0.00
+  Will the number of Democratic House members w |  30000sh @ 0.028→0.028 | $   +0.00
+  Will Canada’s 2026 inflation be less than 1.0 |  30000sh @ 0.034→0.034 | $   +0.00
+  Will Atlético Madrid win the 2026-27 UEFA Cha |  27397sh @ 0.037→0.037 | $   +0.00
+  Will the Democrats win the Tennessee Senate r |  30000sh @ 0.033→0.033 | $   +0.00
+======================================================================
+
+2026-07-06 02:32:04 [polymarket-arb.no_accumulator] INFO: Portfolio: $100,000.00 | P&L: $+0.00 | Positions: 50 | Realized: $+0.00 | Unrealized: $+0.00
+2026-07-06 02:32:14 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:32:34 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:32:54 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:33:22 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:33:42 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:34:02 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:34:29 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:34:49 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:35:09 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:35:42 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:36:02 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:36:22 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:36:41 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:37:01 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+
+======================================================================
+NO-SHARE ACCUMULATOR BOT — 0.1h (0.00d)
+======================================================================
+Portfolio Value:  $  100,000.02
+Cash:             $   60,936.20
+Invested:          $   39,063.80
+Realized P&L:      $       +0.00
+Unrealized P&L:    $       +0.02
+Total P&L:         $       +0.02
+Win/Loss:          0W / 0L / 0 resolved
+Open Positions:    50
+Daily Rate:        $       +6.92/day
+
+By Category:
+  other       : $  22,778 invested | 27 positions | unreal=$   +0.01
+  sports      : $   6,495 invested |  9 positions | unreal=$   +0.00
+  politics    : $   4,367 invested |  7 positions | unreal=$   +0.00
+  crypto      : $   2,049 invested |  2 positions | unreal=$   +0.00
+  geopolitics : $   1,560 invested |  2 positions | unreal=$   +0.00
+  business    : $   1,005 invested |  2 positions | unreal=$   +0.00
+  tech        : $     810 invested |  1 positions | unreal=$   +0.00
+
+Top Positions (by unrealized P&L):
+  Will Josh Hokit be the UFC Heavyweight Champi |  23809sh @ 0.043→0.043 | $   +0.00
+  Will the New York Mets clinch a spot in the 2 |  22222sh @ 0.046→0.046 | $   +0.00
+  Will Atlético Madrid win the 2026-27 UEFA Cha |  27397sh @ 0.037→0.037 | $   +0.00
+  Will Manuel Valls be on the ballot for the 20 |  21978sh @ 0.046→0.046 | $   +0.00
+  Will the Republican Party win the MA-08 House |  25316sh @ 0.041→0.041 | $   +0.00
+  Will the Republican Party win the WA-01 House |  28169sh @ 0.036→0.036 | $   +0.00
+  Will Austin Reaves play for the Brooklyn Nets |  20618sh @ 0.050→0.050 | $   +0.00
+  Will Elon Musk tweet "Hyperliquid" by July 31 |  26315sh @ 0.039→0.039 | $   +0.00
+  Will the Democratic Party win the MA-07 House |  20833sh @ 0.049→0.049 | $   +0.00
+  Will the Democratic Party win the CA-17 House |  20833sh @ 0.049→0.049 | $   +0.00
+======================================================================
+
+2026-07-06 02:37:01 [polymarket-arb.no_accumulator] INFO: Portfolio: $100,000.02 | P&L: $+0.02 | Positions: 50 | Realized: $+0.00 | Unrealized: $+0.02
+2026-07-06 02:37:21 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:37:49 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:38:09 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:38:29 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:38:58 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:39:18 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:39:38 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:40:06 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:40:26 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:40:46 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:41:24 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
+2026-07-06 02:41:44 [polymarket-arb.no_accumulator] INFO: Slots full (50/50) or insufficient cash ($60936.20)
